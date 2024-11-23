@@ -1,0 +1,406 @@
+base,feature,steerage,question,mean_score,text
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,0,2.0385843555786116,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,1,2.5847628942098733,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,2,4.111585892385655,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,3,1.5450826820470704,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,4,3.01804576456612,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,5,1.617608763864358,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,6,6.010261285232936,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,7,4.910930040702098,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.5,8,6.247510061196267,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,0,1.9513130575434292,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,1,1.9366352257830732,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,2,3.861063072341881,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,3,1.3663713525095398,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,4,2.914742252376523,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,5,1.1456889820840366,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,6,5.996628695553016,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,7,4.834428256902448,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.3,8,6.285409314077119,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,0,2.092280306992991,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,1,1.6807758792088072,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,2,3.9764617505607722,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,3,1.2801687762273162,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,4,3.0634905730500637,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,5,1.0637322837339085,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,6,6.0518740245992575,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,7,4.759799610162886,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.2,8,6.354191090611262,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,0,2.2625798542813986,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,1,1.44152084529638,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,2,4.20076216716769,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,3,1.232621812285711,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,4,3.240986033245198,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,5,1.0368152416779943,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,6,6.103175511584728,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,7,4.734995313773509,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,-0.1,8,6.455471288554942,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,0,2.4893327609375597,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,1,1.2896268654824001,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,2,4.455773655925545,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,3,1.215269238380271,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,4,3.596951467266684,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,5,1.0296054437163156,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,6,6.184293286239697,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,7,4.682197639971171,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.0,8,6.51859562000638,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,0,2.770665775638671,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,1,1.218268418442603,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,2,4.88837432986955,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,3,1.2356365303652106,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,4,4.03748328361021,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,5,1.0233951141053492,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,6,6.27554869411026,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,7,4.773964962002546,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.1,8,6.6298259873923575,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,0,3.024332941164906,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,1,1.1557406558176309,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,2,5.359866337336137,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,3,1.2989257457220582,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,4,4.4754097130779815,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,5,1.025134321368188,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,6,6.389277880982304,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,7,4.770113721303933,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.2,8,6.725651905725344,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,0,3.4005166647184377,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,1,1.153926573865956,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,2,5.814729717870511,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,3,1.4329398202143933,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,4,5.056348536057258,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,5,1.0504285228919374,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,6,6.555884276125943,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,7,4.790523716969903,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.3,8,6.870559858616591,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,0,5.028583436735563,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,1,1.5829097850117846,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,2,6.3792656162339565,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,3,2.282539642812104,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,4,6.376261072126563,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,5,1.5722007891863894,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,6,6.687968805612878,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,7,5.311355800675762,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Moral and ethical correctness,0.5,8,6.928592735881865,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,0,2.2551663072036745,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,1,1.3872286555629043,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,2,3.3578572418409247,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,3,1.3344199816830247,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,4,2.6923914292123228,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,5,1.035028740884108,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,6,5.768483647093334,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,7,4.7301944349979195,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.5,8,6.38652572965129,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,0,2.19858075310462,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,1,1.1744659440205776,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,2,3.595677665085166,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,3,1.1430551909040636,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,4,2.552930307277367,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,5,1.0107634427470222,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,6,5.931752572316409,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,7,4.654885704213951,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.3,8,6.551077704875262,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,0,2.27010586495747,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,1,1.151055823152746,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,2,3.8283854732001545,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,3,1.1288645290143497,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,4,2.6867193774953297,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,5,1.0108644736631114,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,6,6.0593715907361965,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,7,4.696363889646446,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.2,8,6.641296891333706,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,0,2.350655551267602,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,1,1.206865069894874,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,2,4.168853497903169,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,3,1.150731052641617,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,4,3.018530609382277,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,5,1.014451958029096,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,6,6.13743759946678,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,7,4.715941034427879,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,-0.1,8,6.590009554759087,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,0,2.4893327609375597,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,1,1.2896268654824001,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,2,4.455773655925545,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,3,1.215269238380271,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,4,3.596951467266684,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,5,1.0296054437163156,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,6,6.184293286239697,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,7,4.682197639971171,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.0,8,6.51859562000638,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,0,2.657529535041246,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,1,1.5088180224588585,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,2,4.844115644186734,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,3,1.477013350564404,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,4,4.197679586935495,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,5,1.0790106793928635,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,6,6.199166015624012,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,7,4.816376419303925,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.1,8,6.447334078209314,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,0,3.009924420287124,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,1,1.7957917261413252,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,2,5.0883738733146116,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,3,1.747654532621907,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,4,4.687863299025409,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,5,1.1428074777186197,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,6,6.186769896070139,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,7,4.779439608528834,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.2,8,6.400930541899411,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,0,3.5291026302636435,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,1,1.9956567619499865,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,2,5.287859095674261,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,3,1.903058704223497,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,4,5.099867139851266,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,5,1.2615984882493292,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,6,6.18862793507785,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,7,4.829756616929057,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.3,8,6.301640675803716,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,0,4.546072076992028,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,1,2.359057186209499,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,2,5.786213766059902,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,3,2.373050348174643,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,4,5.867892086081522,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,5,1.6039739090385017,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,6,6.283841454497988,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,7,4.971796408675085,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Abstract moral and ethical concepts,0.5,8,6.431975531195291,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,0,3.2591972551755597,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,1,1.2889576703914911,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,2,6.8630996638915045,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,3,1.1243855571277612,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,4,6.683645818746443,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,5,1.0182100370844482,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,6,6.811551853778594,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,7,3.904482721224641,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.5,8,6.9509194808939085,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,0,2.2525130021991866,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,1,1.0177905519674482,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,2,6.3918660004445735,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,3,1.0183448170493676,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,4,5.237051176996625,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,5,1.00384380254995,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,6,6.633449661088621,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,7,3.274126526333296,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.3,8,6.827347992822473,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,0,2.096862984298008,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,1,1.0224594473789197,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,2,5.641754891346535,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,3,1.0260051419405827,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,4,4.471376938576492,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,5,1.0043182096065768,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,6,6.490503018512895,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,7,3.7140305079378866,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.2,8,6.680077489727851,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,0,2.174962249096496,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,1,1.0511967416872732,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,2,4.799418991409202,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,3,1.0677844190838819,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,4,3.9781067047539813,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,5,1.0070624711518192,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,6,6.307596025278953,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,7,4.185914593792057,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,-0.1,8,6.569229812024959,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,0,2.4893327609375597,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,1,1.2896268654824001,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,2,4.455773655925545,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,3,1.215269238380271,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,4,3.596951467266684,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,5,1.0296054437163156,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,6,6.184293286239697,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,7,4.682197639971171,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.0,8,6.51859562000638,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,0,3.336428527963736,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,1,3.7908045519504308,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,2,4.733611242999639,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,3,2.188433327745188,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,4,3.3848486332589687,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,5,1.9079847837413462,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,6,6.188348877734637,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,7,5.684051798815928,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.1,8,6.59992317401589,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,0,5.295360342179819,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,1,5.963207769019111,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,2,5.766843141415747,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,3,5.381106372453692,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,4,3.622023701546009,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,5,5.735384267744979,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,6,6.347813866109011,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,7,6.496187399725369,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.2,8,6.735899865179661,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,0,6.82435203624227,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,1,6.694866842262146,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,2,6.73380865050445,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,3,6.502731882879435,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,4,5.003188560017209,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,5,6.723307686852419,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,6,6.646412943826294,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,7,6.849334259850371,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.3,8,6.896604274940042,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,0,6.972371523285327,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,1,6.873449036596806,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,2,6.960009378109135,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,3,6.831389838062867,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,4,6.990300659734338,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,5,6.9045133644698655,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,6,6.968988348272451,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,7,6.897759424181024,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Character acknowledging moral necessity or ethical obligation,0.5,8,6.9883999510009795,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,0,1.7338383587105082,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,1,1.0184710157105819,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,2,2.470011026804626,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,3,1.0245986806386056,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,4,2.286121006869087,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,5,1.0027559124316092,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,6,5.791948967974226,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,7,4.673005034794147,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.5,8,6.62316951229752,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,0,1.9707539623588788,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,1,1.0544400325415548,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,2,3.204649073359687,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,3,1.053729953729892,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,4,2.572845680036141,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,5,1.0068960394691933,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,6,6.013256032013461,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,7,4.765817225369642,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.3,8,6.627571235689118,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,0,2.0975548870749403,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,1,1.1205649959923636,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,2,3.6431062345018574,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,3,1.0926868410152841,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,4,2.8472633102090996,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,5,1.0103460608518198,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,6,6.067241356179281,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,7,4.81458893997319,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.2,8,6.615287498182313,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,0,2.3362033432690934,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,1,1.1874566763791774,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,2,4.111544161415416,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,3,1.1456410811106539,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,4,3.082093943512476,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,5,1.0169359396569144,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,6,6.158641076742562,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,7,4.781742276191966,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,-0.1,8,6.565710650010029,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,0,2.4893327609375597,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,1,1.2896268654824001,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,2,4.455773655925545,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,3,1.215269238380271,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,4,3.596951467266684,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,5,1.0296054437163156,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,6,6.184293286239697,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,7,4.682197639971171,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.0,8,6.51859562000638,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,0,2.731500807779059,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,1,1.4854583027503037,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,2,4.888418947553063,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,3,1.3193318417809992,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,4,4.0573665298418895,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,5,1.0481784564261376,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,6,6.231678992220525,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,7,4.6920793677933315,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.1,8,6.486522938598615,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,0,3.001387161447374,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,1,1.6866667309907268,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,2,5.1876851930984245,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,3,1.4381318688082663,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,4,4.570542729759903,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,5,1.0984864436395816,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,6,6.202629577515763,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,7,4.728482076041588,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.2,8,6.446540439505747,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,0,3.39080347364416,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,1,2.0442747596289235,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,2,5.474338857022501,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,3,1.6824413244335783,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,4,5.030670379226223,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,5,1.1805049261457687,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,6,6.224245731893754,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,7,4.74230587344464,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.3,8,6.39651615194105,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,0,4.5773452982975185,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,1,2.8901283432643927,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,2,5.816549484972655,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,3,2.218297436483949,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,4,5.731403823210801,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,5,1.9552063969065607,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,6,6.218068773233736,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,7,4.878359374044116,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and moral behavior guidance,0.5,8,6.4041959224409375,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,0,1.99580546306778,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,1,1.7896595951976142,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,2,4.221070006885825,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,3,1.729892201294928,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,4,2.856541071361714,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,5,1.5305541200852097,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,6,5.854507125071288,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,7,4.593451674188092,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,8,5.8817909722953665,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,0,1.9914303444697896,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,1,1.3746268332204776,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,2,3.67569276414388,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,3,1.3267809217060254,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,4,2.6867481426527036,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,5,1.0754950642386423,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,6,5.840079795812841,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,7,4.495954380391281,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,8,5.9908885597355575,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,0,2.0893753581782373,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,1,1.3319331467053157,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,2,3.835553347642589,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,3,1.2808766172764519,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,4,2.8848152253460237,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,5,1.0412012064697973,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,6,5.920222534046719,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,7,4.55233583158542,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,8,6.127770072492332,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,0,2.264225940450828,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,1,1.3004944083423273,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,2,4.057672971316794,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,3,1.2306001383082577,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,4,3.169141157854949,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,5,1.0279575730934176,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,6,6.037005036341493,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,7,4.6021959364993705,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,8,6.3481435022244055,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,0,2.4893327609375597,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,1,1.2896268654824001,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,2,4.455773655925545,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,3,1.215269238380271,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,4,3.596951467266684,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,5,1.0296054437163156,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,6,6.184293286239697,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,7,4.682197639971171,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,8,6.51859562000638,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,0,2.8419559664467204,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,1,1.375674938015955,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,2,5.010793368397417,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,3,1.2940877372354216,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,4,4.102717463450476,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,5,1.0344726532428372,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,6,6.365768205158909,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,7,4.924303075050884,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,8,6.692977540838773,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,0,3.2466279361118944,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,1,1.6562900110675494,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,2,5.648019861409398,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,3,1.4223007593383377,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,4,4.9353104287195855,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,5,1.0453357819049711,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,6,6.505237999674228,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,7,5.226802659868976,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,8,6.839183016616483,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,0,4.148182759919365,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,1,2.409811341002488,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,2,6.271009227947922,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,3,1.730831001042432,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,4,6.024863715446276,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,5,1.1031743082503285,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,6,6.657336805481658,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,7,5.8977624332833045,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,8,6.936291401246509,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,0,6.755960419837935,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,1,6.124718411534832,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,2,6.695541639482429,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,3,5.3645909876609705,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,4,6.966573872973467,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,5,5.071202931647418,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,6,6.922152140170807,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,7,6.751504715913909,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,8,6.994243213873317,7

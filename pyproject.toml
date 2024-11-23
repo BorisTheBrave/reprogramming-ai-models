@@ -10,6 +10,8 @@ python = "^3.13"
 goodfire = "^0.2.32"
 ipykernel = "^6.29.5"
 scipy = "^1.14.1"
+pandas = "^2.2.3"
+tqdm = "^4.67.0"
 
 [tool.poetry.dev-dependencies]
 
