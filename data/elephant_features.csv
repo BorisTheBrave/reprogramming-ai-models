@@ -1,0 +1,496 @@
+base,feature,steerage,persona,question,mean_score,score,text
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,0,5.794635340420382,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,1,5.414513916899535,5.0,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,2,6.203542960530265,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,3,6.325615606631175,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,4,6.212328871783221,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,5,5.498381642265159,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,6,5.544906651705004,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,7,6.029242347836072,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.8,,8,6.186538687859681,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,0,3.6373124213221537,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,1,4.03957606746113,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,2,4.00653202767971,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,3,3.727163577118907,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,4,5.355449391705253,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,5,3.4921218562351672,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,6,4.912448973536029,5.0,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,7,4.721276004047394,5.0,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.5,,8,5.706575025450997,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,0,2.667617199138234,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,1,2.6747320852893144,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,2,4.6654027348075005,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,3,2.178817285997778,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,4,4.920265506708747,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,5,2.7275154129854813,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,6,5.520801034062143,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,7,4.646064025196406,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.3,,8,5.924534670381873,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,0,2.601060116371493,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,1,2.1444982130358317,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,2,4.773424986354141,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,3,1.817537304630422,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,4,4.470812971638483,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,5,1.7359185035111044,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,6,5.8166379449208465,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,7,4.701972845429405,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.2,,8,6.172672932427083,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,0,2.5756923662834446,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,1,1.6673606080743575,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,2,4.628266484616466,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,3,1.485872014587623,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,4,3.9801248321548672,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,5,1.1546522009384388,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,6,6.003834147175236,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,7,4.692984283001437,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,-0.1,,8,6.348030773773146,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,0,2.4893327609375597,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,1,1.2896268654824001,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,2,4.455773655925545,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,3,1.215269238380271,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,4,3.596951467266684,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,5,1.0296054437163156,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,6,6.184293286239697,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,7,4.682197639971171,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.0,,8,6.51859562000638,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,0,2.3760408727748494,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,1,1.1367560404831791,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,2,4.4667565462035865,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,3,1.1064881497520622,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,4,3.298772590039892,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,5,1.0108109114911368,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,6,6.40926528259942,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,7,4.77649822643431,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.1,,8,6.68261328233715,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,0,2.444716226368077,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,1,1.0848864951763706,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,2,4.716102506081633,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,3,1.0917599729846383,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,4,3.2886663346957077,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,5,1.0092639263292509,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,6,6.605186631773588,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,7,5.027204258077333,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.2,,8,6.81145956694906,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,0,2.77397261287705,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,1,1.1737660477572214,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,2,5.076895603075028,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,3,1.2226100468365473,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,4,3.456854639044272,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,5,1.0215736550651122,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,6,6.7973975056236755,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,7,5.55300214617586,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.3,,8,6.891159595873321,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,0,5.006309286612449,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,1,2.5407815053281166,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,2,5.517073414987385,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,3,2.6409489886630446,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,4,5.01603491336622,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,5,1.441828089811366,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,6,6.927137046409354,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,7,6.07412231026576,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.5,,8,6.961547314264133,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,0,6.043011147764591,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,1,3.153482210775532,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,2,6.042859880672962,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,3,4.161679077826376,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,4,6.627079925426195,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,5,2.81746340027341,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,6,6.770338721380541,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,7,5.501935761323394,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants as massive and powerful creatures,0.8,,8,6.8344325511633315,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,0,2.3464378237800365,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,1,1.3800476608231544,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,2,2.7809745036286477,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,3,1.2186384905425245,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,4,2.820519790270773,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,5,1.1619892860901853,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,6,5.864860618326148,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,7,4.382316321633694,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.8,,8,6.127126158389053,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,0,2.331885999214167,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,1,1.5014481005858678,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,2,3.829410527126131,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,3,1.1651695799286272,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,4,2.997263850451809,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,5,1.0467361451947683,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,6,6.089567522228458,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,7,4.673492877822009,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.5,,8,6.244835410147427,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,0,2.4997125989884363,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,1,1.5565521105812503,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,2,4.125431612773484,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,3,1.2445325088066648,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,4,3.0623369930167437,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,5,1.0510599469204918,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,6,6.141049200064932,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,7,4.660132192831978,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.3,,8,6.32170561519793,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,0,2.5308483950190204,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,1,1.5572545571655918,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,2,4.291969561581514,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,3,1.2841228027919673,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,4,3.2058659606940525,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,5,1.0499665919693402,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,6,6.133442210805819,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,7,4.705241510646683,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.2,,8,6.376686428939074,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,0,2.54088917471494,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,1,1.4172005993037537,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,2,4.373957270920952,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,3,1.2629840607824294,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,4,3.303353656342042,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,5,1.0375954713960445,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,6,6.154201545220067,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,7,4.705321913462194,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),-0.1,,8,6.445548419023009,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,0,2.4893327609375597,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,1,1.2896268654824001,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,2,4.455773655925545,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,3,1.215269238380271,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,4,3.596951467266684,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,5,1.0296054437163156,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,6,6.184293286239697,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,7,4.682197639971171,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.0,,8,6.51859562000638,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,0,2.405802542298071,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,1,1.1892119248140631,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,2,4.652256563683452,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,3,1.1721073043429486,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,4,3.878722730664333,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,5,1.021249604879378,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,6,6.206280702189755,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,7,4.755116838359091,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.1,,8,6.58414155643696,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,0,2.2943364304707843,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,1,1.1576904372951182,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,2,4.815363515139425,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,3,1.141842310655295,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,4,4.305136332065622,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,5,1.024545235116523,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,6,6.194641650726362,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,7,4.701753476459835,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.2,,8,6.698379099012795,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,0,2.199878421065573,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,1,1.1645564261262218,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,2,5.0269801531308484,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,3,1.137151097674068,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,4,4.843303005173158,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,5,1.0424364430574065,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,6,6.2049227850017825,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,7,4.697971676444572,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.3,,8,6.752460938754606,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,0,2.719459789947751,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,1,1.3882355400497821,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,2,5.530456293609257,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,3,1.2936464968348758,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,4,5.473251001303553,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,5,1.2020406479786772,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,6,6.252053171004149,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,7,4.738914579459761,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.5,,8,6.796072728736402,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,0,5.325281683014249,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,1,5.353513074256291,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,2,6.671976846355587,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,3,4.777345310653344,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,4,6.852202650932859,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,5,4.752581780089984,3.0,3
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,6,6.8926754601703095,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,7,6.049623611875519,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Elephants and peanuts (common misconception of elephants liking peanuts),0.8,,8,6.976987400977492,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,0,5.875736787310308,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,1,5.620235709257777,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,2,6.294075153900949,7.0,7 - Strongly Agree
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,3,5.923685988411552,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,4,6.273567564047327,7.0,7 - Strongly Agree
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,5,5.720852430535042,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,6,5.501518597668523,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,7,5.989532497914226,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.8,,8,6.576558305393064,7.0,7 - Strongly Agree
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,0,3.080384988858796,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,1,3.9262318374354432,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,2,4.893206512892478,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,3,3.0714612615890085,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,4,5.187858724455121,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,5,3.49919965247534,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,6,5.858995513970805,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,7,5.165088286627581,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.5,,8,6.162250408717409,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,0,2.800575357348573,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,1,2.5929520390673764,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,2,4.796095546169106,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,3,1.9928896192342975,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,4,3.9080657167273767,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,5,2.2360063020565764,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,6,5.893187178282261,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,7,4.781432559706811,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.3,,8,6.072223149568202,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,0,2.6598945785036845,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,1,2.1161866581937705,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,2,4.734781385692851,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,3,1.6296190507862058,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,4,3.674958129946893,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,5,1.365039420013216,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,6,5.968979959746173,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,7,4.808329826961136,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.2,,8,6.2178260812962085,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,0,2.5765085725955004,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,1,1.6282674085779814,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,2,4.576847122743824,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,3,1.373896910475651,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,4,3.5318803323885897,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,5,1.092163507846839,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,6,6.086360364953436,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,7,4.74192739555525,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",-0.1,,8,6.360902884530823,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,0,2.4893327609375597,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,1,1.2896268654824001,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,2,4.455773655925545,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,3,1.215269238380271,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,4,3.596951467266684,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,5,1.0296054437163156,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,6,6.184293286239697,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,7,4.682197639971171,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.0,,8,6.51859562000638,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,0,2.4892532670501724,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,1,1.1274383656724118,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,2,4.53953020703876,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,3,1.1258425497653775,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,4,3.8057576812935596,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,5,1.0115195713038847,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,6,6.336431744201038,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,7,4.654696758656587,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.1,,8,6.656086139994749,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,0,2.449792906072182,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,1,1.052606613604494,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,2,4.717032204509508,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,3,1.0604111478811908,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,4,4.2793424922892465,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,5,1.0044902454487592,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,6,6.544477541606259,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,7,4.7088391067003394,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.2,,8,6.793952702967845,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,0,2.8543470878418895,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,1,1.0562189052790272,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,2,5.060335458041514,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,3,1.0648944979874764,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,4,5.373620174149962,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,5,1.0055229835122277,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,6,6.781444115501403,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,7,5.078041601742102,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.3,,8,6.9070292052279365,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,0,6.100979456247764,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,1,3.4620652281439757,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,2,6.0691362690180215,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,3,2.470033391940189,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,4,6.884671482393399,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,5,1.111640219226362,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,6,6.963395038813643,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,7,6.142240868262897,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.5,,8,6.987792801289578,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,0,6.7797538252789336,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,1,,,Clicking.
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,2,6.697310067758684,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,3,,,Clicking.
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,4,6.85837351407442,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,5,,,*click*
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,6,6.893498286367158,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,7,6.527420872246367,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Dolphins and whales, particularly their behavior and characteristics",0.8,,8,6.930296978052039,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,0,2.961548771894853,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,1,1.9251874813243897,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,2,4.3097711932653056,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,3,1.4599919929266216,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,4,5.7015018487133045,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,5,1.6881573943707626,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,6,6.279499017093839,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,7,4.631961671517038,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.8,,8,6.457941668042875,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,0,2.9754408581585152,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,1,1.3150308979260745,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,2,4.139475836800152,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,3,1.0393737958859377,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,4,3.783859170019024,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,5,1.0141298121694862,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,6,6.218821594055843,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,7,4.410229932527763,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.5,,8,6.263939182731212,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,0,2.997036931848057,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,1,1.4567066781129672,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,2,4.595837048446052,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,3,1.116719967553696,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,4,3.5808756700088336,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,5,1.0188714901544806,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,6,6.1714888384573445,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,7,4.44557550140361,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.3,,8,6.327013591803559,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,0,2.886932372894503,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,1,1.4256258225564276,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,2,4.594964138800959,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,3,1.1458417899007252,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,4,3.5583679044453036,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,5,1.020478486858236,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,6,6.180128280661407,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,7,4.560894244024296,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.2,,8,6.404024649465741,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,0,2.771635681102019,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,1,1.362992946134946,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,2,4.533290575353211,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,3,1.186872458902163,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,4,3.534264983053198,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,5,1.0231797072060964,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,6,6.1798765040061046,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,7,4.601498752540267,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",-0.1,,8,6.474696160228087,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,0,2.4893327609375597,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,1,1.2896268654824001,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,2,4.455773655925545,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,3,1.215269238380271,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,4,3.596951467266684,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,5,1.0296054437163156,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,6,6.184293286239697,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,7,4.682197639971171,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.0,,8,6.51859562000638,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,0,2.1940042641451316,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,1,1.2315654899263466,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,2,4.52628109082884,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,3,1.2521542274095008,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,4,3.506410424880973,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,5,1.0385387607085101,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,6,6.188700965102679,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,7,4.8212085325996075,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.1,,8,6.58747978085276,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,0,1.8790683081852972,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,1,1.2561557576302858,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,2,4.795758551151147,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,3,1.3813873806443184,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,4,3.329895541979351,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,5,1.065769616594438,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,6,6.292668030748764,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,7,5.0630216995072175,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.2,,8,6.626066230925576,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,0,2.0433943161710726,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,1,1.9279409869535844,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,2,5.529485053950354,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,3,2.3317275267530975,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,4,3.662670180239823,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,5,1.1784097228682788,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,6,6.506140137215583,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,7,5.749375889114941,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.3,,8,6.7408544389975535,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,0,5.122016520055784,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,1,3.8304413063966254,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,2,6.16479914328996,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,3,5.011761632619661,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,4,6.361800703257779,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,5,2.840047075725093,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,6,6.5612193954692035,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,7,5.937205754479856,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.5,,8,6.767252780917056,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,0,4.400670050241451,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,1,4.226371400879198,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,2,4.609307665758625,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,3,4.42827968397085,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,4,4.755509693726174,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,5,4.077287112229833,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,6,4.5913953408160975,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,7,4.335341266519141,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Sheep and goats, especially when portrayed with agency or personality",0.8,,8,4.768433543453688,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,0,5.291639879384586,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,1,2.100078927510617,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,2,4.38658653173782,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,3,1.2408353759620059,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,4,4.765400375614032,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,5,1.1888483631405748,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,6,5.7223734785969,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,7,4.1425601775791865,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.8,,8,6.3741283779982725,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,0,2.841931195680942,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,1,1.5471946146491455,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,2,3.3449510702571073,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,3,1.0097432068742298,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,4,3.9411778710211323,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,5,1.0060004393472313,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,6,5.953393844238981,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,7,4.315197707244662,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.5,,8,6.210089563734161,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,0,2.5619098476097917,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,1,1.4611115185019774,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,2,4.1202705802436626,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,3,1.0510198048506625,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,4,3.666467721829676,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,5,1.012687774568353,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,6,6.027701173968422,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,7,4.427902803846855,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.3,,8,6.18837423736712,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,0,2.5390399735177667,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,1,1.4175948169859174,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,2,4.236140832090492,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,3,1.1036152404341848,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,4,3.5270525402319612,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,5,1.0146083227612206,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,6,6.099352047335223,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,7,4.484087768704349,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.2,,8,6.309796982005354,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,0,2.4941651166924155,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,1,1.3338707015099707,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,2,4.367829649632751,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,3,1.1417739733218288,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,4,3.514981282087458,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,5,1.018338063602453,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,6,6.1641077873868415,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,7,4.579049261517472,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",-0.1,,8,6.418239839634172,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,0,2.4893327609375597,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,1,1.2896268654824001,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,2,4.455773655925545,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,3,1.215269238380271,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,4,3.596951467266684,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,5,1.0296054437163156,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,6,6.184293286239697,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,7,4.682197639971171,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.0,,8,6.51859562000638,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,0,2.468702432564623,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,1,1.3340459030243783,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,2,4.798355344437282,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,3,1.3814426731647431,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,4,3.735356042544236,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,5,1.0569366961027702,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,6,6.180294361802918,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,7,4.875259058772798,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.1,,8,6.551410295349619,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,0,2.441652745034024,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,1,1.495365749206147,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,2,5.151203633221957,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,3,1.7558038919848886,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,4,4.062218630428954,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,5,1.1817428220041464,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,6,6.146445432256453,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,7,4.9324482900493205,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.2,,8,6.49086779297816,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,0,2.544390245459347,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,1,1.705487845190537,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,2,5.674417761077593,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,3,2.093880077819456,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,4,4.628470826274792,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,5,1.5238511061961095,1.0,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,6,6.110024479585998,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,7,4.877354673992833,4.0,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.3,,8,6.478267666368394,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,0,3.6341153186468342,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,1,3.0942918170070257,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,2,6.190326016593363,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,3,4.387951645432309,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,4,6.378294210197391,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,5,3.981938319191542,2.0,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,6,6.167264680267523,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,7,5.151649674155164,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.5,,8,6.601688393935034,7.0,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,0,4.15523008934798,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,1,3.767197585406609,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,2,4.5361154719093975,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,3,4.0633061907908266,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,4,4.160833597685796,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,5,3.7120007931665286,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,6,4.335819044688916,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,7,3.970940570862266,6.0,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Lists of taxonomically related animals, especially camelids",0.8,,8,4.31944187553006,6.0,6
