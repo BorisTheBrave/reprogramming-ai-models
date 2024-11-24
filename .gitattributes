@@ -1,0 +1,20 @@
+# Configure git to handle notebooks properly
+*.ipynb filter=nbstripout
+*.ipynb diff=jupyternotebook
+
+# Optional: Explicitly mark notebook metadata as text
+# *.ipynb linguist-language=JSON
+
+# Exclude specific notebooks from stripping (examples)
+# data_exploration_with_outputs.ipynb !filter=nbstripout
+# important_visualizations.ipynb !filter=nbstripout
+
+# Optional: Configure nbconvert metadata handling
+# *.nbconvert.ipynb filter=nbstripout
+# *.nbconvert.ipynb diff=jupyternotebook
+
+# Optional: If you use R notebooks
+# *.Rmd filter=nbstripout
+
+# Optional: Associate checkpoints with nbstripout
+# .ipynb_checkpoints/**  filter=nbstripout
