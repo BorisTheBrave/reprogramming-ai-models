@@ -1,2 +1,3 @@
 *.csv#
 API_KEY.txt
+poetry.lock
