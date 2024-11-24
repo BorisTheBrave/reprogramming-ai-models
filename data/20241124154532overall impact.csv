@@ -1,0 +1,811 @@
+base,feature,steerage,persona,question,mean_score,score,text
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,0,2.0997977931572795,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,1,2.1052957916202963,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,2,4.902209102740972,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,3,1.2874350826472836,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,4,4.046325439524868,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,5,1.0932545398172953,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,6,5.281372801469919,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,7,4.632748453364032,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.5,,8,6.132502592140335,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,0,2.265611369868237,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,1,1.4690769250923692,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,2,4.622372549468833,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,3,1.2043409667147487,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,4,3.716098722931376,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,5,1.0384325608357452,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,6,5.663682861993853,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,7,4.708666281194336,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.3,,8,6.224955060201711,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,0,2.350655551267602,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,1,1.3544160896448745,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,2,4.552243720878806,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,3,1.2069540008098618,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,4,3.641399433238764,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,5,1.029307186908363,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,6,5.852222216824781,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,7,4.653138429613132,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.2,,8,6.336402896052199,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,0,2.4359366514768688,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,1,1.2978925850607488,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,2,4.4463960916254175,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,3,1.193427959681031,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,4,3.5895991045541007,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,5,1.0279143452305437,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,6,6.04065969430582,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,7,4.677977573093457,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",-0.1,,8,6.4105191076044825,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,0,2.6336712688254598,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,1,1.3166366446095914,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,2,4.649913039624694,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,3,1.2387474165666854,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,4,3.621226072068294,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,5,1.0352335780653843,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,6,6.364933492549517,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,7,4.794022792142567,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.1,,8,6.6385437051031175,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,0,2.7367137454242987,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,1,1.360448463849039,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,2,4.968345831431479,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,3,1.275994502501993,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,4,3.772697461552368,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,5,1.0569003380810473,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,6,6.442000398025734,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,7,4.944099381905049,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.2,,8,6.714902006204161,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,0,3.028095053477864,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,1,1.4335768700600182,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,2,5.330629247596961,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,3,1.3658051149532646,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,4,4.174762367987775,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,5,1.0929351270795897,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,6,6.58588304182222,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,7,5.178823543870422,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.3,,8,6.793983932780406,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,0,5.041008960632214,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,1,1.8906688579988604,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,2,5.853148712838083,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,3,2.04331483487516,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,4,5.882643726215177,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,5,1.3919748595973094,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,6,6.796833670938172,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,7,5.721574765233533,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of significant effects or consequences, particularly using the word 'impact'",0.5,,8,6.913935959867414,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,0,1.960528661242487,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,1,2.3083993849151487,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,2,4.107961374447637,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,3,1.1346561670975275,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,4,2.887077245857091,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,5,1.0612371068060207,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,6,5.954351930607211,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,7,4.589296578808605,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.5,,8,6.518671069698827,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,0,2.059014022422644,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,1,1.5650624628175496,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,2,4.126040268728947,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,3,1.1732920357965155,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,4,2.8014665396468015,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,5,1.0445954339711085,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,6,5.9634192732374025,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,7,4.768553517483668,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.3,,8,6.450383461868388,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,0,2.1565618163239946,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,1,1.3918549203033572,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,2,4.225797294004573,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,3,1.1793114417218893,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,4,2.9282252957489394,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,5,1.0351522094764514,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,6,6.02268445821123,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,7,4.731450150807416,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.2,,8,6.449120500041032,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,0,2.2659821168225656,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,1,1.3135198685660456,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,2,4.298570617453131,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,3,1.1986269370385143,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,4,3.17826518549142,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,5,1.030944461562331,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,6,6.12374416047006,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,7,4.776561627723001,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",-0.1,,8,6.455075961317866,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,0,2.806501437288402,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,1,1.3458912394033615,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,2,4.716996662701962,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,3,1.2746773832819283,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,4,4.107286509815569,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,5,1.0263491617263099,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,6,6.219570141544543,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,7,4.672793091325542,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.1,,8,6.538350647769265,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,0,3.071477495704937,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,1,1.3656136318279948,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,2,4.990780629856857,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,3,1.3324908380729996,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,4,4.652996073828663,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,5,1.0348823568643963,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,6,6.238104334825203,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,7,4.593262799086566,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.2,,8,6.5371897631748,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,0,3.5222252854670106,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,1,1.4230013302051605,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,2,5.357859254554967,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,3,1.3459450514242282,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,4,5.219453184419352,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,5,1.043716590746752,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,6,6.220369590235835,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,7,4.6960221349464915,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.3,,8,6.521810209426728,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,0,5.004668904113485,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,1,2.4866731941011597,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,2,5.739463790949858,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,3,2.785861124482888,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,4,6.153031997922212,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,5,1.840467796202586,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,6,6.3317869994379965,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,7,5.08568550435632,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Discussion of effects and consequences, especially using the word impact",0.5,,8,6.673642934394394,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,0,1.612537529702728,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,1,1.0431582581140324,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,2,2.312565117736516,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,3,1.101007038348873,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,4,2.9073354133839544,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,5,1.0319880842437485,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,6,6.022738846927348,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,7,4.020971252654948,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.5,,8,6.090747901409751,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,0,1.784440746620177,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,1,1.0825223999085898,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,2,3.1637565739588145,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,3,1.171147650905651,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,4,2.878328372352284,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,5,1.0441434389710207,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,6,5.976616939312189,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,7,4.307668842461554,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.3,,8,6.115055221209976,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,0,1.991204659207652,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,1,1.1118683535671032,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,2,3.7526654094466876,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,3,1.2008266414711686,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,4,3.038886927008763,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,5,1.0391365017760688,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,6,6.0610621878549225,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,7,4.409914003991054,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.2,,8,6.246665904179576,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,0,2.2122187524095596,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,1,1.169370353587317,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,2,4.141629882944469,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,3,1.1871433841051537,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,4,3.1883910094475785,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,5,1.0325346120219552,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,6,6.132380051851972,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,7,4.592123170920614,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,-0.1,,8,6.388993284469992,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,0,2.863265494173763,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,1,1.625532034605098,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,2,4.82364012824407,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,3,1.3395023239051245,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,4,3.8940944722902193,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,5,1.0431712952568692,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,6,6.233919351650832,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,7,4.801023729785738,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.1,,8,6.594632884378909,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,0,3.4584653875323834,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,1,2.4376248368176427,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,2,5.282937090217289,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,3,1.6540142866603493,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,4,4.091861612089368,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,5,1.1469644863619506,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,6,6.224260369033596,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,7,4.979068497528234,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.2,,8,6.6259707748386685,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,0,4.261368172007475,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,1,3.3489499508438234,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,2,5.705051109759994,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,3,2.2576978608673763,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,4,4.160671472662915,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,5,1.810861559761098,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,6,6.171335871673157,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,7,5.142176503575881,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.3,,8,6.598357440462439,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,0,6.004363919963245,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,1,4.689893516441749,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,2,6.181881481107794,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,3,4.449621447835803,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,4,4.491224286223159,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,5,4.121023842175873,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,6,6.364703535484691,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,7,5.849681996446379,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Physical impacts and their immediate consequences,0.5,,8,6.693270867408285,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,0,3.870878507300601,1,1 - Strongly Disagree
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,1,3.151945546903442,1,1 - Strongly Disagree
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,2,4.186267276123913,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,3,3.0276358906890883,1,1 - Strongly Disagree
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,4,4.753520057837627,7,7 - Strongly Agree
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,5,2.887192258622087,1,1 - Strongly Disagree
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,6,4.9740207958709615,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,7,4.011222130468055,1,1 - Strongly Disagree
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.5,,8,4.772781832803875,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,0,2.243210188875876,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,1,1.0315430242819592,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,2,5.013487371078362,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,3,1.0455548241622783,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,4,3.9194874578929837,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,5,1.0134999943705185,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,6,6.160861945646794,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,7,4.496476747424105,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.3,,8,6.455471087607147,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,0,2.473733136115869,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,1,1.1152702813365303,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,2,4.461161701352434,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,3,1.1259925599880838,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,4,3.6292602311375495,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,5,1.0192470685304205,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,6,5.975982594216207,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,7,4.412939908905613,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.2,,8,6.227151852418586,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,0,2.4488364927114437,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,1,1.1723416627619112,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,2,4.44690591558147,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,3,1.1536618265652545,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,4,3.534264983053198,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,5,1.0245818079790436,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,6,6.05638784829283,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,7,4.542947258431788,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,-0.1,,8,6.374645399656019,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,0,2.4852610327040097,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,1,1.4301792435953267,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,2,4.459752572313099,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,3,1.233705405341342,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,4,3.7249534409951273,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,5,1.036708117056883,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,6,6.318148671318106,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,7,4.926311777835265,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.1,,8,6.66786369300822,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,0,2.5141467269421023,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,1,1.5533207938084252,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,2,4.445084119134991,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,3,1.265376040007593,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,4,3.907107478579092,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,5,1.054527001468029,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,6,6.492502757557266,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,7,5.092704622855973,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.2,,8,6.803594247268519,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,0,2.573782437430906,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,1,1.4460622642955072,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,2,4.17882805576206,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,3,1.1873598156669258,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,4,4.174795572498004,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,5,1.0918658162768822,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,6,6.721880566256692,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,7,5.304961482191153,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.3,,8,6.9285718238632334,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,0,6.314355505514486,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,1,5.169999576337651,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,2,6.629980923391991,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,3,4.921160686208187,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,4,6.806715222293115,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,5,4.999527246500512,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,6,6.896913325719607,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,7,6.207639402014098,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Descriptions of transformative effects or impacts,0.5,,8,6.924126507498083,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,0,2.6715141642874194,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,1,3.662255713607708,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,2,5.729057545459032,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,3,2.0903888644331285,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,4,3.071959050072774,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,5,1.8340330121818291,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,6,6.295777558144694,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,7,4.763839534257,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.5,,8,6.609512684938627,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,0,2.1281252679706557,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,1,2.1101588933933577,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,2,4.564001254287479,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,3,1.4577856460857244,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,4,3.3366868817212496,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,5,1.112160833690262,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,6,5.856649998354943,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,7,4.305323822002694,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.3,,8,6.225160699419434,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,0,2.208134676120048,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,1,1.7109625002539584,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,2,4.705522877968484,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,3,1.2260379741089575,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,4,3.4232909597047447,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,5,1.0435308068152565,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,6,6.015952941371654,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,7,4.372604021559835,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.2,,8,6.3910264845081635,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,0,2.394309542601954,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,1,1.3573831144682538,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,2,4.652356680979879,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,3,1.1620345815826725,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,4,3.4748142005153206,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,5,1.0202650870358503,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,6,6.144834831107612,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,7,4.503581715459509,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,-0.1,,8,6.48940711634481,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,0,2.556191998219131,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,1,1.4958800801607992,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,2,4.267048382592226,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,3,1.4305040224599324,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,4,3.453098426186953,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,5,1.2504581393700915,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,6,6.102833340807403,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,7,5.0402187994925125,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.1,,8,6.433420131476967,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,0,2.3594402977876134,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,1,2.128717803418163,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,2,3.845657427516441,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,3,2.0134290309303693,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,4,3.088584746389185,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,5,3.2104616582572274,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,6,6.010716412706001,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,7,5.31522925254513,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.2,,8,6.219300957054158,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,0,2.233326465279168,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,1,2.7039589735742386,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,2,3.590972636010832,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,3,2.7734303574560215,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,4,3.4866947655209177,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,5,3.749095704112124,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,6,6.003238268651256,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,7,5.6502508061666115,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.3,,8,6.062084404461833,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,0,3.8704997729742985,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,1,3.542473087910514,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,2,5.532949555487588,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,3,4.406505768772504,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,4,5.9278253969380135,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,5,4.47217147656089,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,6,5.800261072316346,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,7,5.379213834539134,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Analysis of potential impact of news events,0.5,,8,5.995684617213674,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,0,1.896550379727122,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,1,1.1254070361915296,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,2,4.198267261642961,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,3,1.1172592193664581,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,4,4.7109152771237435,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,5,1.0167114953880725,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,6,6.126998315973265,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,7,4.1922154819141895,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.5,,8,6.3608698718266545,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,0,1.9866142246667422,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,1,1.1181285008879023,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,2,3.9737816584649837,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,3,1.0956075292896634,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,4,3.7674220710553983,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,5,1.017535496254089,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,6,6.056105488475345,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,7,4.570086303530496,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.3,,8,6.3567599173078495,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,0,2.1005114297314442,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,1,1.142953507122779,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,2,4.078748245718058,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,3,1.101261772407087,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,4,3.678209478262942,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,5,1.0164566767451695,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,6,6.079096748993084,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,7,4.629483896650181,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.2,,8,6.3746142416918365,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,0,2.281087000327024,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,1,1.1930535659562969,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,2,4.27501720687786,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,3,1.1334633441338404,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,4,3.581642197475416,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,5,1.0189684881415666,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,6,6.120620381925224,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,7,4.723604630763502,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,-0.1,,8,6.425965773687872,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,0,2.7692146602534717,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,1,1.4234642727521112,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,2,4.823756517574529,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,3,1.2846935261830519,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,4,3.5544568238480827,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,5,1.0454223027462501,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,6,6.269374537633655,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,7,4.690716751043962,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.1,,8,6.632543169832452,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,0,2.995799112260998,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,1,1.5511060060916475,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,2,5.162342828901049,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,3,1.3086945850097982,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,4,3.7213904459096083,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,5,1.052542825418503,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,6,6.332976381434782,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,7,4.727843052262291,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.2,,8,6.703835759933485,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,0,3.4606173051451075,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,1,1.6525819404616553,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,2,5.650634598741868,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,3,1.3247815940077272,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,4,4.007655653953595,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,5,1.0778291410476468,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,6,6.426220664102836,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,7,4.755212074130133,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.3,,8,6.762475462971176,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,0,4.970911390411465,5,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,1,2.8478792724776394,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,2,5.872709610832869,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,3,2.5032154129020285,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,4,4.951564191235497,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,5,1.828838848740634,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,6,6.044409224925842,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,7,5.10408908522813,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Concrete actions and their impacts,0.5,,8,6.229028511409557,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,0,6.443174233492508,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,1,5.963073816413389,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,2,6.844957951679999,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,3,3.3854668020159564,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,4,6.937604854558815,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,5,1.0248058246114597,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,6,6.862492692932903,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,7,5.962367083699754,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.5,,8,6.977412696249133,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,0,2.6440142298592404,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,1,1.3124853838524453,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,2,5.94640742814516,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,3,1.1223246517656735,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,4,5.587117753278613,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,5,1.0086316313389108,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,6,6.541328954698435,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,7,4.922011132940891,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.3,,8,6.78860230298995,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,0,2.4494488451056484,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,1,1.2092629111838724,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,2,5.04744093508875,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,3,1.1389462481882953,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,4,4.587482793844996,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,5,1.0130013642634985,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,6,6.362396423916572,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,7,4.87697629373175,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.2,,8,6.701194390667075,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,0,2.418630375388031,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,1,1.2222136204214373,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,2,4.571420009025204,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,3,1.1551331800478322,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,4,4.018639245614712,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,5,1.0178392298119874,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,6,6.283137165883856,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,7,4.797177735063921,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,-0.1,,8,6.603795105169284,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,0,2.617435402250455,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,1,1.551069838364099,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,2,4.611061922244481,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,3,1.406047013629587,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,4,3.3393113004551283,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,5,1.0707439808751666,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,6,6.105817566617532,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,7,4.703799031286268,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.1,,8,6.390455160446974,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,0,2.7857246123102444,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,1,1.9683783758501454,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,2,4.8168848588878035,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,3,1.753655880505026,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,4,3.2310234105298594,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,5,1.227662983354959,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,6,6.057561063884149,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,7,4.7549638381618955,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.2,,8,6.245484906115829,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,0,3.025016351348743,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,1,2.5122616772867072,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,2,5.244352286172994,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,3,2.20184098621179,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,4,3.251612405164625,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,5,1.7206170710524644,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,6,6.046723534909539,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,7,4.852490096633101,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.3,,8,6.168789486032183,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,0,4.989785039040305,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,1,3.694105640201322,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,2,6.2903093465894155,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,3,3.4105949541973484,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,4,4.139908068931105,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,5,3.4227662806135,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,6,6.140371262755032,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,7,5.360774001017305,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Examples or case studies of impacts and effects,0.5,,8,6.462515279563235,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,0,2.5744138783114385,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,1,1.629379417533649,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,2,5.5371686924968,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,3,1.6923914155840454,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,4,4.61095195049443,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,5,1.1219243224302935,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,6,6.080351814060717,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,7,4.872356687815849,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.5,,8,6.460831462204345,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,0,2.4798639942085727,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,1,1.4322606902001063,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,2,5.1626681534340735,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,3,1.3932421057660795,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,4,3.7919627040259085,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,5,1.0504823366899956,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,6,6.181165182626624,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,7,4.800412637982898,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.3,,8,6.549325645389312,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,0,2.502882277761218,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,1,1.3630447703108786,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,2,4.928482329457432,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,3,1.3241293234657352,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,4,3.671865673950877,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,5,1.0370493127460083,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,6,6.191154468615552,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,7,4.770126763999049,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.2,,8,6.53679524645906,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,0,2.477231280185124,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,1,1.318596454326106,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,2,4.637953079992305,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,3,1.2632103535341148,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,4,3.5751864323087683,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,5,1.028602248660783,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,6,6.216529508911144,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,7,4.7358634148631396,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,-0.1,,8,6.556091866036865,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,0,2.489081211023282,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,1,1.2902696492039865,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,2,4.323489937079694,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,3,1.1873171168075454,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,4,3.701405833363157,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,5,1.0391611452524445,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,6,6.185217138707323,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,7,4.7360277460588724,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.1,,8,6.499502244561211,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,0,2.4849531834606204,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,1,1.2909611044306601,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,2,4.142298414260989,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,3,1.1871562894164984,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,4,3.821815278496446,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,5,1.053310145257361,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,6,6.175736282823317,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,7,4.698616470447174,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.2,,8,6.461026484890519,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,0,2.5103703728362596,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,1,1.309348941055333,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,2,3.9001910732657263,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,3,1.1957803926764907,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,4,3.8654833605583354,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,5,1.0725265182439834,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,6,6.1442376369495175,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,7,4.68747263648026,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.3,,8,6.439097706915709,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,0,2.3831648302258928,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,1,1.3952285369245796,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,2,3.4070250347959994,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,3,1.2289574150243665,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,4,3.9179214553261508,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,5,1.0811989270827718,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,6,6.145950500906726,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,7,4.686191653498945,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Comprehensive observation or systemic impact,0.5,,8,6.370304547828859,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,0,1.7189059952706707,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,1,1.5368984850481848,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,2,3.0235183672773096,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,3,1.061702435725403,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,4,3.138427725991172,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,5,1.0058279890299235,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,6,5.688988536777373,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,7,4.528573157406265,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.5,,8,6.157795069083576,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,0,1.8707062079354544,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,1,1.4659502113555636,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,2,3.289385133284014,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,3,1.1399074700446095,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,4,2.5290311502200895,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,5,1.0168210268760662,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,6,5.83390802145227,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,7,4.743166714504777,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.3,,8,6.18943665519095,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,0,2.0608226546003254,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,1,1.4248428293647029,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,2,3.6937882055182665,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,3,1.1867828243496148,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,4,2.584957628684393,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,5,1.0234232979607558,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,6,6.014150591918979,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,7,4.911625364199033,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.2,,8,6.374568892952586,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,0,2.270373488056007,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,1,1.3809271355583468,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,2,4.113542514310264,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,3,1.2232350045553682,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,4,2.934109357426507,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,5,1.0255462918766731,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,6,6.114636579134726,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,7,4.832426944404175,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,-0.1,,8,6.485141051588319,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,0,2.709875596565798,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,1,1.2641176442091147,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,2,4.887036136982324,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,3,1.200721088783123,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,4,4.500029425869946,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,5,1.0300572681559437,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,6,6.215536548424425,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,7,4.583843823613859,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.1,,8,6.617722712351561,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,0,3.0565307734466614,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,1,1.3454505475819745,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,2,5.28538879676152,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,3,1.2715644479028592,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,4,5.322815854011084,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,5,1.0562284645399163,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,6,6.263895466126964,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,7,4.5187297841013585,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.2,,8,6.720323720154126,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,0,3.426217447255287,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,1,1.6398005345406945,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,2,5.631423124464088,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,3,1.4430275358021658,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,4,5.875062586948531,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,5,1.099896642836135,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,6,6.2964148153244475,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,7,4.466090929131425,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.3,,8,6.832849791236706,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,0,4.405377242265287,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,1,2.4763088150975956,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,2,6.480468853056922,8,"8 is not an option, so I rate this statement: 7"
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,3,2.2961812363316567,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,4,6.945018685902094,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,5,1.4864860851469706,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,6,6.946442584558028,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,7,5.091090230281256,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Environmental impact and conservation discussions,0.5,,8,6.995420134429715,8,"8 is not an option, so I rate this statement: 7"
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,0,2.2629294496169687,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,1,1.9459637203999816,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,2,4.320282399619777,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,3,1.137176518549319,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,4,5.184626996065767,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,5,1.0328993363923211,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,6,6.038598737516293,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,7,5.226402929959748,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.5,,8,6.585750586024084,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,0,2.2347791616355943,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,1,1.9609363050506696,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,2,4.2395828863261436,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,3,1.3438903056025298,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,4,3.7116769554945934,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,5,1.095819585163982,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,6,6.0163415086172645,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,7,5.003015902216905,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.3,,8,6.358214961696997,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,0,2.349556875476545,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,1,1.751806257860908,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,2,4.336704721115822,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,3,1.3469853923413484,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,4,3.420710437271348,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,5,1.0651450048247282,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,6,6.068426992670724,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,7,4.887262224378328,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.2,,8,6.432915348251,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,0,2.497712361606987,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,1,1.5000576785021462,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,2,4.402562525752226,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,3,1.2704371435480866,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,4,3.364051066007826,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,5,1.037743928465663,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,6,6.136583608760346,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,7,4.862027833337756,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",-0.1,,8,6.491410720279203,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,0,2.525607775294241,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,1,1.1883547718991887,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,2,4.616058014090823,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,3,1.1743239421958862,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,4,3.8833391356219873,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,5,1.0227712362698298,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,6,6.240172345298595,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,7,4.600182778671726,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.1,,8,6.528190168525901,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,0,2.556191998219131,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,1,1.1540019881726356,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,2,4.8516870676187205,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,3,1.1631621223403263,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,4,4.205264810892827,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,5,1.0226375072134897,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,6,6.240905998593293,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,7,4.485439736891227,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.2,,8,6.521066896292598,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,0,2.5570178717324827,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,1,1.145059465033973,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,2,5.0128775735378035,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,3,1.190116645781733,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,4,4.482077399073261,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,5,1.023260613887844,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,6,6.232559239412321,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,7,4.383138159526992,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.3,,8,6.465132220932919,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,0,3.3505462644724444,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,1,1.479172594222141,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,2,5.230968081571921,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,3,1.5811641744214973,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,4,4.941332017785529,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,5,1.1352511730031487,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,6,6.301786221030485,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,7,4.504854168923557,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Describing effects or impacts, especially environmental impacts in business contexts",0.5,,8,6.443715379366459,7,7

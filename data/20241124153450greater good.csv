@@ -1,0 +1,811 @@
+base,feature,steerage,persona,question,mean_score,score,text
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,0,2.487378629186001,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,1,1.399635833306323,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,2,4.920456276255726,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,3,1.6068141358363803,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,4,4.011515131384617,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,5,1.1424454789309175,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,6,5.8589249235065965,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,7,5.089078632716172,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.5,,8,6.464580680562769,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,0,2.300783147378192,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,1,1.1716636133473122,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,2,4.4162233687604795,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,3,1.1966000196724491,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,4,3.3702432010432664,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,5,1.0293371210116666,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,6,5.998528653029014,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,7,4.732946175855417,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.3,,8,6.534611378604455,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,0,2.298054910752229,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,1,1.1705749718891931,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,2,4.3400840201247295,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,3,1.165782336639922,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,4,3.223469826053213,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,5,1.0198060612800766,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,6,6.042773124534636,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,7,4.675348116280248,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.2,,8,6.52715686445221,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,0,2.3804946977390524,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,1,1.1698702140810562,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,2,4.342581846764128,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,3,1.1651382659660612,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,4,3.3245615064345677,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,5,1.019335048708797,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,6,6.110643525299164,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,7,4.680373897876366,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,-0.1,,8,6.543565358941827,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,0,2.6381051123700807,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,1,1.8450130222033234,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,2,4.725425139852277,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,3,1.3718669983621168,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,4,3.9964631915278948,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,5,1.0629305195326968,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,6,6.243924057658423,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,7,4.79638704103913,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.1,,8,6.495110715956831,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,0,2.914924710066229,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,1,2.829162551049476,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,2,5.027215631132616,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,3,1.6724240566279758,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,4,4.626831898123156,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,5,1.2689242232546587,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,6,6.2721783684916765,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,7,4.9435098055292706,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.2,,8,6.45248298240993,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,0,3.6107898024144713,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,1,4.428171762343404,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,2,5.37581168324554,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,3,2.035182645243236,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,4,5.585907441894156,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,5,1.778655911152676,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,6,6.27948640502106,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,7,5.189548383975082,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.3,,8,6.4165522748041495,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,0,6.344334136587069,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,1,6.15935477441905,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,2,6.2266274782113085,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,3,4.002378237229768,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,4,6.847258618074053,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,5,5.092286918170221,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,6,6.75428449772972,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,7,6.040150389117573,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or decisions that benefit collective interests,0.5,,8,6.797550516780903,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,0,2.3298076109662245,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,1,1.0554814097690515,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,2,4.706387098671569,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,3,1.2267138625140366,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,4,4.99246045233405,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,5,1.022099394649146,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,6,6.025167585464061,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,7,4.12376458848259,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.5,,8,6.143240197776088,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,0,2.3716630946690307,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,1,1.0950034518977705,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,2,4.558488633003652,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,3,1.2296589577678572,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,4,4.468712783779488,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,5,1.0176125779406735,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,6,6.132631723008285,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,7,4.372849241588484,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.3,,8,6.279581536191977,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,0,2.4447372443542426,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,1,1.160802166072558,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,2,4.555329611238668,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,3,1.1953516513406888,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,4,4.177231426475571,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,5,1.018120221063784,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,6,6.149236185621164,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,7,4.5033957148261345,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.2,,8,6.358349038051686,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,0,2.4471984586612465,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,1,1.239758150068057,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,2,4.496173469298378,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,3,1.209790545515887,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,4,3.786655397527997,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,5,1.0253253450007291,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,6,6.173071823646786,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,7,4.601591611548736,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,-0.1,,8,6.435116010321319,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,0,2.549299338036699,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,1,1.4075336923497974,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,2,4.56085394231026,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,3,1.2135355040576374,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,4,3.297523596800831,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,5,1.039950191891233,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,6,6.16204836493969,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,7,4.7986368787032045,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.1,,8,6.557364249887977,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,0,2.528052613053599,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,1,1.5090383750854075,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,2,4.76239562574678,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,3,1.2373444612556301,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,4,2.9801675972919024,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,5,1.061968837934626,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,6,6.0814336676410585,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,7,4.85034798711869,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.2,,8,6.6068898061171,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,0,2.655618398008522,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,1,1.7404601634667864,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,2,5.0362609623906645,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,3,1.2968913536531013,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,4,2.6764656155508977,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,5,1.1208954351399152,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,6,6.057640806357443,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,7,4.845629487499678,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.3,,8,6.6198705487604945,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,0,3.1064858963812902,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,1,2.887083632688338,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,2,5.629293751034413,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,3,1.7287048233375213,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,4,2.6987501473890427,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,5,1.9233319161889215,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,6,6.183501260013635,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,7,4.991522553577184,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Actions or items intended to benefit others,0.5,,8,6.722457862179011,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,0,2.567177432925726,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,1,1.668486082753062,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,2,4.155418383205408,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,3,1.405710362065677,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,4,4.148884124979374,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,5,1.0473586095802925,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,6,6.1050713585137135,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,7,4.348902978811094,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.5,,8,6.396587948534666,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,0,2.267021208986691,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,1,1.2602605481405829,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,2,3.441361826653853,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,3,1.1694629391320435,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,4,3.7428312684425644,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,5,1.022663527477545,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,6,6.2089678710955845,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,7,4.503477172433563,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.3,,8,6.6432710578582554,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,0,2.335930021973045,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,1,1.2330134451531378,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,2,3.6566251914737427,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,3,1.1653663704990755,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,4,3.7228490459931347,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,5,1.0180756510623135,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,6,6.195613093183456,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,7,4.595151196148839,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.2,,8,6.623749154064854,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,0,2.3876346300903086,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,1,1.2606430043200998,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,2,4.050159387692367,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,3,1.1800281555062833,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,4,3.5820715836334998,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,5,1.022899446391404,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,6,6.1977328457827445,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,7,4.6708101885991935,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,-0.1,,8,6.557099590108023,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,0,2.700470799564276,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,1,1.4079864493357765,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,2,4.961855882013832,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,3,1.2597431279337512,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,4,3.5565923082627084,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,5,1.0434649675688836,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,6,6.20141451925981,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,7,4.791360945824627,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.1,,8,6.470456761655175,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,0,2.9896219197784797,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,1,1.7632046439014886,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,2,5.41967086375052,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,3,1.3016180525458199,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,4,3.8619816846095114,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,5,1.0575757590881623,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,6,6.225126426435877,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,7,4.756442757454672,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.2,,8,6.490284250951212,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,0,3.3195650856115315,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,1,2.4850498236258796,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,2,5.734363559524154,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,3,1.4972464227737206,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,4,4.443108783492355,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,5,1.1268248031980332,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,6,6.26420893846753,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,7,4.834034417172758,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.3,,8,6.506526419036042,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,0,4.972941241792682,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,1,4.4821793708122035,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,2,6.001232317214008,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,3,2.8424476646286094,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,4,6.201707898792343,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,5,2.6994053298654475,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,6,6.524199816926226,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,7,5.278858667285343,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making meaningful contributions or additions to projects/causes,0.5,,8,6.643979445700904,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,0,1.99580546306778,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,1,1.7896595951976142,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,2,4.221070006885825,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,3,1.729892201294928,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,4,2.856541071361714,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,5,1.5305541200852097,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,6,5.854507125071288,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,7,4.593451674188092,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.5,,8,5.8817909722953665,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,0,1.9914303444697896,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,1,1.3746268332204776,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,2,3.67569276414388,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,3,1.3267809217060254,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,4,2.6867481426527036,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,5,1.0754950642386423,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,6,5.840079795812841,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,7,4.495954380391281,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.3,,8,5.9908885597355575,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,0,2.0893753581782373,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,1,1.3319331467053157,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,2,3.835553347642589,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,3,1.2808766172764519,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,4,2.8848152253460237,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,5,1.0412012064697973,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,6,5.920222534046719,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,7,4.55233583158542,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.2,,8,6.127770072492332,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,0,2.264225940450828,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,1,1.3004944083423273,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,2,4.057672971316794,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,3,1.2306001383082577,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,4,3.169141157854949,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,5,1.0279575730934176,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,6,6.037005036341493,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,7,4.6021959364993705,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",-0.1,,8,6.3481435022244055,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,0,2.8419559664467204,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,1,1.375674938015955,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,2,5.010793368397417,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,3,1.2940877372354216,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,4,4.102717463450476,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,5,1.0344726532428372,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,6,6.365768205158909,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,7,4.924303075050884,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.1,,8,6.692977540838773,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,0,3.2466279361118944,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,1,1.6562900110675494,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,2,5.648019861409398,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,3,1.4223007593383377,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,4,4.9353104287195855,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,5,1.0453357819049711,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,6,6.505237999674228,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,7,5.226802659868976,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.2,,8,6.839183016616483,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,0,4.148182759919365,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,1,2.409811341002488,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,2,6.271009227947922,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,3,1.730831001042432,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,4,6.024863715446276,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,5,1.1031743082503285,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,6,6.657336805481658,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,7,5.8977624332833045,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.3,,8,6.936291401246509,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,0,6.755960419837935,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,1,6.124718411534832,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,2,6.695541639482429,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,3,5.3645909876609705,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,4,6.966573872973467,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,5,5.071202931647418,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,6,6.922152140170807,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,7,6.751504715913909,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Moral and ethical goodness, virtue, and positive qualities",0.5,,8,6.994243213873317,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,0,2.7223413512690633,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,1,2.065232656374571,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,2,3.818874234769065,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,3,1.8933283356149209,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,4,4.286567595752942,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,5,1.1681897681238185,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,6,5.775180502456469,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,7,4.304685248644578,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.5,,8,5.96233438339586,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,0,2.2571998340167654,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,1,1.5565763229536076,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,2,3.158971865112608,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,3,1.522957402924596,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,4,3.182418090209617,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,5,1.0336924733269068,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,6,5.788417529510486,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,7,4.332259765004698,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.3,,8,6.17584516110861,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,0,2.2600163677588108,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,1,1.3768627412088479,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,2,3.2895564698980557,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,3,1.3424592241772375,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,4,3.133313546950311,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,5,1.0250324822085568,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,6,5.888815004486716,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,7,4.442203935436994,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.2,,8,6.301530290951703,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,0,2.347845110186898,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,1,1.3121737635357702,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,2,3.799031722819989,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,3,1.2713089203412338,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,4,3.216261608480636,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,5,1.021176377566557,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,6,6.040830307773327,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,7,4.5504965497282885,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,-0.1,,8,6.411598646422841,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,0,2.8020369361379562,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,1,1.4126407969915828,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,2,5.452697114294451,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,3,1.2235678000832972,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,4,4.125781376901129,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,5,1.0478117809406122,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,6,6.3037750353394415,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,7,4.8862934955422395,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.1,,8,6.649911539738263,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,0,3.349113999550373,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,1,1.7763580043023761,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,2,6.208565381743902,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,3,1.294822965474822,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,4,4.963889607455298,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,5,1.0996377534126949,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,6,6.479620822805215,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,7,5.052461621251728,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.2,,8,6.749106037967809,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,0,4.489548620027426,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,1,2.428788524197952,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,2,6.467958069555761,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,3,1.4337260250151105,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,4,6.078312926749761,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,5,1.2399192031633897,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,6,6.648536978772184,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,7,5.389006894594366,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.3,,8,6.880004198194837,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,0,6.668597288911969,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,1,6.253111673253709,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,2,6.647907428229093,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,3,5.4684767530948255,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,4,6.902602424613668,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,5,5.274329139226392,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,6,6.89165966903121,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,7,6.32748825895963,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making a positive difference or impact in the world,0.5,,8,6.9568195239415695,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,0,1.6246974903658824,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,1,1.2039346945690137,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,2,4.832141003598511,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,3,1.0805985081580842,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,4,6.254622231540391,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,5,1.0211294689586004,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,6,6.296611592688963,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,7,4.9418253950041615,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.5,,8,6.831274383824914,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,0,1.694657557968743,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,1,1.1711868435206967,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,2,4.611585485171986,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,3,1.0945715460131216,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,4,5.076351580341893,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,5,1.0148036921429888,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,6,6.274004246532454,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,7,4.707644329750111,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.3,,8,6.720480977269635,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,0,1.862047651465932,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,1,1.1808843428794968,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,2,4.605866042701395,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,3,1.0976843596276502,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,4,4.436005445796762,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,5,1.0118105322060977,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,6,6.285667430947781,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,7,4.712001741679923,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.2,,8,6.684424335718122,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,0,2.1780831273485677,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,1,1.205271033438496,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,2,4.621278342561144,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,3,1.137034646748116,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,4,4.048516611164803,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,5,1.013564460070225,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,6,6.245223718817604,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,7,4.766862486018253,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,-0.1,,8,6.609450370165017,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,0,2.7644912073957673,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,1,1.562362355207007,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,2,4.350907066195495,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,3,1.3494151728255834,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,4,3.1808436844834347,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,5,1.0769581465122087,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,6,6.0130240548895255,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,7,4.707758665177941,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.1,,8,6.374709143999439,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,0,2.7939748625737506,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,1,1.8547755587676449,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,2,4.036517810141004,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,3,1.4880550801122858,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,4,2.7499665435649616,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,5,1.247602417970708,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,6,5.639379769108732,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,7,4.7889323412691045,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.2,,8,6.21482358679799,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,0,2.5797062674158258,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,1,1.9215120301720783,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,2,3.714998709478063,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,3,1.4353810212075884,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,4,2.5761641755268068,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,5,1.296058924585944,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,6,5.080770501257791,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,7,4.971768521742836,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.3,,8,5.959194292119956,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,0,2.715409211345243,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,1,2.36479650521321,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,2,5.452641121975463,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,3,1.6144827985459616,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,4,3.008248106261556,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,5,1.512554689079006,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,6,4.579949920924517,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,7,4.240101303238698,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Putting others' needs before one's own,0.5,,8,6.464397376568047,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,0,4.0005808590359955,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,1,3.5274178564797136,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,2,5.84415752400196,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,3,2.2791797246122454,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,4,6.600933538206229,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,5,2.6122653854377758,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,6,6.6706507550479595,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,7,4.728955976135575,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.5,,8,6.931119453885357,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,0,2.201063641823966,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,1,1.8878645002506236,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,2,3.778043185742492,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,3,1.6262070795095767,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,4,5.001789705884117,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,5,1.3766261478803323,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,6,6.394821217410017,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,7,4.516088301478323,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.3,,8,6.730536233676642,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,0,2.144907557992429,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,1,1.4155353176203522,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,2,3.6421635996483452,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,3,1.397749603911687,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,4,4.196389700231461,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,5,1.096671833290512,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,6,6.290512888459707,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,7,4.5456633386724015,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.2,,8,6.653007175476738,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,0,2.193274205960779,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,1,1.2784824395717727,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,2,3.8005176078193648,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,3,1.2299985470846964,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,4,3.711914981219706,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,5,1.0355687231510016,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,6,6.193341071293691,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,7,4.616027866814319,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,-0.1,,8,6.605635665418039,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,0,3.095888952066245,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,1,1.6544340915887046,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,2,5.433859420610941,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,3,1.2670678838200884,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,4,3.71224215684708,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,5,1.0384871667891704,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,6,6.212673933620507,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,7,4.913261544890949,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.1,,8,6.514435734774584,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,0,4.12255865088053,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,1,2.68405365126356,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,2,6.241042098842745,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,3,1.500499099775583,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,4,4.075777555894448,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,5,1.1010292433271882,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,6,6.260614780539313,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,7,5.227693602378214,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.2,,8,6.511672862325355,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,0,5.461501450884043,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,1,4.459901975944857,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,2,6.515502450826988,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,3,1.785155364907057,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,4,4.615113489690351,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,5,1.4663444282974714,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,6,6.34253875169779,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,7,5.603937754561602,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.3,,8,6.527397613467497,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,0,6.671635816494108,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,1,6.252527123465504,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,2,6.675749045384765,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,3,3.847258920218378,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,4,6.515612035278134,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,5,6.374792430069399,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,6,6.619450715299245,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,7,6.240011859882915,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Making positive contributions to society and improving the world,0.5,,8,6.816085957285491,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,0,2.311902160835442,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,1,1.6490462580905005,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,2,4.422825156918375,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,3,1.8478214780423423,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,4,4.83894388768329,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,5,1.1390251791388561,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,6,6.403495074755264,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,7,4.533683639377189,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.5,,8,6.635286996385724,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,0,1.9714136004541025,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,1,1.2153559116703794,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,2,2.8131178904604552,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,3,1.353869829469361,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,4,2.7422627365101935,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,5,1.0460764780542262,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,6,6.200126315218483,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,7,4.416904334038325,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.3,,8,6.485665680743063,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,0,2.067142291046773,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,1,1.2028993302570479,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,2,2.951399018800834,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,3,1.2862041218655234,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,4,2.7320232698543814,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,5,1.03267016955744,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,6,6.149638044071433,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,7,4.460087333122319,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.2,,8,6.44311154856958,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,0,2.20942948165464,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,1,1.2171933035050027,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,2,3.580911775003463,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,3,1.222111526489181,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,4,3.035442785982204,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,5,1.0263035900515496,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,6,6.128216800340428,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,7,4.577200470726278,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,-0.1,,8,6.45908791289229,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,0,2.9776380269844274,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,1,1.6156657326745663,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,2,5.525643240467456,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,3,1.267997043592775,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,4,4.334549695988526,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,5,1.0487070883859877,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,6,6.270101746632241,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,7,4.942591292540464,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.1,,8,6.622250632959205,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,0,3.6956815684972666,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,1,2.59992442903613,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,2,6.244244613381325,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,3,1.513438329298245,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,4,5.350318639682083,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,5,1.1141899951506313,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,6,6.383716172642606,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,7,5.293227775701542,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.2,,8,6.749394924542134,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,0,4.695701538356609,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,1,4.711625964961981,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,2,6.507269981024648,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,3,2.131689158852496,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,4,6.215318829744798,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,5,1.586833714003259,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,6,6.5579573101472395,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,7,5.812651504555768,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.3,,8,6.879706264795644,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,0,6.806076875554681,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,1,6.713797886254771,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,2,6.8344805865977,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,3,6.3204825618252105,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,4,6.9852750586704975,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,5,6.553217260554028,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,6,6.9621747035342585,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,7,6.6703227481668685,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Helping or serving others altruistically,0.5,,8,6.99115884822573,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,0,3.319957730909095,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,1,2.1402366661346384,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,2,5.844109425508854,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,3,1.2857817277631953,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,4,5.725164158433353,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,5,1.0378766340204004,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,6,6.41168169155355,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,7,5.0446990448289535,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.5,,8,6.757431754320342,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,0,2.6664403850274843,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,1,1.467893505579403,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,2,5.162805112000226,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,3,1.1433925912902425,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,4,4.673537046010067,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,5,1.0275302830051254,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,6,6.299964512424292,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,7,4.9939990102661245,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.3,,8,6.598007098951854,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,0,2.5695846168332177,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,1,1.3889304879730577,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,2,4.9175838683493724,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,3,1.1431150579663678,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,4,4.325941498087279,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,5,1.0242714096709025,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,6,6.260950621604797,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,7,4.934597023890336,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.2,,8,6.576141135847959,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,0,2.5337139045183035,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,1,1.3240332875462657,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,2,4.659055989187012,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,3,1.1774310293851316,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,4,3.9119848781719373,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,5,1.0242756682140202,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,6,6.224264397702842,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,7,4.814124697823242,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,-0.1,,8,6.522867765688609,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,0,2.4189844967020306,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,1,1.2771869841768573,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,2,4.3563253090403125,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,3,1.247727403561691,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,4,3.2759924224385046,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,5,1.0402382050159256,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,6,6.144192580254784,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,7,4.627101945025736,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.1,,8,6.494891742286561,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,0,2.3523015148398416,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,1,1.261009615787574,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,2,4.2099950732007425,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,3,1.3013739351941411,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,4,2.9806331017751044,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,5,1.0514888647459262,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,6,6.100791312573544,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,7,4.563609610713917,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.2,,8,6.443270269096252,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,0,2.1805986935894626,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,1,1.2403980210916994,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,2,4.04511989171714,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,3,1.3820976263729963,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,4,2.647643561361128,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,5,1.071788729635493,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,6,6.061454212825752,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,7,4.484726178575724,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.3,,8,6.414747604848593,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,0,1.8370063844295235,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,1,1.100886816703968,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,2,3.613475349598507,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,3,1.4220239801469068,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,4,2.3015369831792674,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,5,1.0763299855946753,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,6,6.056153272019639,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,7,4.124569591730147,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,discussing optimal outcomes and beneficial futures,0.5,,8,6.360832495384891,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,0,2.2327620197902163,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,1,2.229948325444764,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,2,4.716306312744364,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,3,1.834025927812293,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,4,4.419642257481451,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,5,1.452736137788298,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,6,5.639608915975864,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,7,4.5621819497973854,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.5,,8,5.7957695501560575,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,0,2.084749597460492,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,1,2.059772359927845,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,2,4.473321793881169,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,3,1.7314833496396325,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,4,3.7324651544494323,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,5,1.2357587948875703,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,6,5.727964515685777,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,7,4.57614690130432,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.3,,8,5.948459146664708,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,0,2.1794477640563605,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,1,1.913552727862586,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,2,4.471328374742637,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,3,1.565410518421494,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,4,3.610623339720164,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,5,1.1279646766669933,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,6,5.853546718753493,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,7,4.660143664030282,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.2,,8,6.130858551521657,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,0,2.3492094154930716,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,1,1.617309999952379,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,2,4.472369532844582,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,3,1.4031155803599324,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,4,3.5492630069006346,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,5,1.060406328983344,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,6,5.999632190138765,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,7,4.680580430501965,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,-0.1,,8,6.308957725319663,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,0,2.692309088410922,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,1,1.1174696888273539,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,2,4.620933073579902,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,3,1.109283138914946,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,4,3.7382799883595266,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,5,1.0130375382137404,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,6,6.361161179785453,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,7,4.662310039835075,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.1,,8,6.667433933853008,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,0,3.1053190290672323,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,1,1.0496207279187548,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,2,4.901328041674138,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,3,1.0586446264099185,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,4,4.060831268629333,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,5,1.0080855146402095,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,6,6.538412711850407,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,7,4.64800586719382,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.2,,8,6.78629204932357,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,0,3.6080401771254302,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,1,1.0324414857966513,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,2,5.5023754739023145,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,3,1.0378782710419319,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,4,4.875172068826194,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,5,1.008123544357105,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,6,6.673397127076478,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,7,4.666266918284737,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.3,,8,6.890296680070196,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,0,5.301179046762522,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,1,1.2270596708369346,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,2,6.2795696200485756,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,3,1.1610070411291398,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,4,6.590997213388151,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,5,1.0549664164923258,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,6,6.891157901243651,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,7,5.353250630893253,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Assistant emphasizing multiple positive aspects using 'great' as an intensifier,0.5,,8,6.984333931055753,7,7

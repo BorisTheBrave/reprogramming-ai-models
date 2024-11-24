@@ -1,0 +1,811 @@
+base,feature,steerage,persona,question,mean_score,score,text
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,0,2.685798618199294,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,1,3.159074807773083,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,2,5.377733927969309,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,3,1.3487718616914035,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,4,4.0883188926301,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,5,1.9204097221002612,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,6,6.079978211931312,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,7,5.025817982766864,5,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.5,,8,6.2265944886886455,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,0,2.2731959387997054,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,1,2.2405352468215045,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,2,4.045324877172102,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,3,1.1807755037491678,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,4,3.2614894898900615,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,5,1.2111353601763244,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,6,6.029575874228991,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,7,4.9275524399991175,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.3,,8,6.309578612188298,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,0,2.262264259833758,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,1,1.920561459728398,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,2,3.9049775962139863,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,3,1.173309236675418,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,4,3.2893758991791398,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,5,1.087345836237651,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,6,6.029579710033179,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,7,4.915113332059731,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.2,,8,6.34930476419471,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,0,2.37551014752322,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,1,1.5371277262576084,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,2,4.104036825330948,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,3,1.1815186170817775,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,4,3.4190202731517387,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,5,1.0447203203806719,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,6,6.069991119131017,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,7,4.795836847191744,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,-0.1,,8,6.407125386709485,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,0,2.723722866681811,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,1,1.1992181500726284,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,2,5.006577634454701,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,3,1.3308174397499617,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,4,3.8783192661207986,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,5,1.0295285945940666,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,6,6.314449863291528,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,7,4.600881716557968,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.1,,8,6.626037618153821,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,0,3.1631762510275476,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,1,1.1877596433756452,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,2,5.656381150448741,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,3,1.5353807008656868,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,4,4.551558567937569,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,5,1.0361631360445323,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,6,6.394843701600672,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,7,4.5530266053253605,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.2,,8,6.7000502453321005,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,0,3.909231206717679,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,1,1.297102744804224,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,2,6.1090717654788715,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,3,2.035423818779349,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,4,5.407321944071827,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,5,1.070123943362135,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,6,6.515041415477945,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,7,4.508226142486325,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.3,,8,6.7152086416072905,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,0,5.770703213254276,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,1,2.9889199115094587,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,2,6.161242514099842,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,3,4.395467426970515,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,4,6.368883298421945,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,5,2.6319797526431157,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,6,6.615841823936574,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,7,5.2610688144801605,5,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant emphasizing respect and dignity when discussing ethics or boundaries,0.5,,8,6.749434177059845,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,0,4.076249655850466,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,1,3.6046113238494657,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,2,5.394164794594258,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,3,3.729333148076635,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,4,2.958163642151734,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,5,5.076124869963983,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,6,5.601409850806725,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,7,6.166167303748294,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.5,,8,6.693843825572675,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,0,2.942568110641205,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,1,2.415971303955241,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,2,4.907425336226143,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,3,1.840034747183951,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,4,2.79404556412317,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,5,2.841622575110546,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,6,5.908584885008463,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,7,5.585650659656967,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.3,,8,6.663627866650665,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,0,2.757479238236267,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,1,2.0364115149338304,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,2,4.638886483551144,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,3,1.6016186543846889,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,4,2.8372991224404807,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,5,1.9303972865904344,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,6,6.000880813541957,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,7,5.229404625396401,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.2,,8,6.5926608007399095,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,0,2.6428590501454052,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,1,1.6056130849746353,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,2,4.4736303063334635,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,3,1.3366607448960448,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,4,3.0183312918345693,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,5,1.1716285735421377,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,6,6.085966240311383,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,7,4.942103853038855,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,-0.1,,8,6.569401184499799,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,0,2.4532608318424867,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,1,1.1726488123818013,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,2,4.7421219729879756,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,3,1.1585659619499717,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,4,4.6135996918121505,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,5,1.0068507564353275,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,6,6.315907078372974,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,7,4.606885177162086,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.1,,8,6.53172123930137,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,0,2.5240636067140723,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,1,1.1318219546073114,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,2,5.280240927803578,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,3,1.1600006819039985,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,4,5.838030654305715,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,5,1.0030466733524528,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,6,6.521825586852897,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,7,4.78573223546408,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.2,,8,6.60883906217314,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,0,2.8865447451800184,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,1,1.3618145078822321,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,2,5.883871836276112,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,3,1.2697849433508537,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,4,6.712095763109226,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,5,1.0034273681444221,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,6,6.764099969165921,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,7,5.231895306688964,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.3,,8,6.746778006258063,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,0,6.265533698967255,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,1,2.6940831715082103,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,2,6.948552253211242,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,3,1.4076612737970178,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,4,6.997590762492887,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,5,1.1434300924770586,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,6,6.992952025350894,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,7,6.704734955632244,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with dignity and respect,0.5,,8,6.988845892592868,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,0,2.6696135820090108,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,1,2.0604207226126534,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,2,4.853792346422025,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,3,1.64679348753431,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,4,2.846089279673687,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,5,1.382020565766111,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,6,5.746657093190691,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,7,5.2138850270246255,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.5,,8,6.07122879477268,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,0,2.6046745048053954,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,1,1.7750978140840168,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,2,4.017935519606935,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,3,1.3816747484625185,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,4,2.6965085777063504,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,5,1.1224886529529547,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,6,5.779326026266176,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,7,4.89864330373964,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.3,,8,6.210979866896522,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,0,2.587276360717859,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,1,1.6353223411157887,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,2,3.9669724312711416,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,3,1.3149115850230464,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,4,2.910826695617587,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,5,1.0641507329682314,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,6,5.8376363668144835,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,7,4.812698930400735,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.2,,8,6.364765144878204,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,0,2.5311109685380058,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,1,1.4670950464756003,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,2,4.152556140147673,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,3,1.2711639193171325,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,4,3.100039465478982,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,5,1.0346208867921096,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,6,5.981613069294965,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,7,4.737213344790905,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",-0.1,,8,6.470998970677832,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,0,2.5282628141013843,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,1,1.2491465694169974,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,2,5.03778947383999,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,3,1.2576802599360304,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,4,4.314750169214936,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,5,1.035610381069983,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,6,6.394922976654789,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,7,4.805322709893087,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.1,,8,6.632249398665334,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,0,2.6696280176804046,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,1,1.3274879546670444,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,2,5.685093938094225,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,3,1.3638602684594305,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,4,5.361026767766633,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,5,1.0541706931577521,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,6,6.565579686433522,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,7,4.8554270979661895,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.2,,8,6.722644568230694,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,0,3.1820158426947507,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,1,1.5794097877727755,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,2,6.244384580117905,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,3,1.554559403491409,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,4,6.3010031081894455,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,5,1.1225708062314401,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,6,6.7691184259820725,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,7,4.882257970783008,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.3,,8,6.7979226343431005,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,0,6.193552292838827,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,1,3.4375835846074363,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,2,6.804384334665951,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,3,2.5951540599832605,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,4,6.971868690084135,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,5,2.5004548800857145,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,6,6.961674823947631,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,7,5.552562050324527,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"The assistant emphasizing core values of respect and dignity, especially when refusing harmful requests",0.5,,8,6.956444918355313,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,0,2.1001695794825475,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,1,2.5544199635709655,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,2,3.7682594669585874,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,3,1.2276774735844707,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,4,3.1595930261120015,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,5,1.320782801999441,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,6,6.077693921967438,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,7,4.086919661633417,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.5,,8,6.6973495617596726,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,0,2.3240207344759334,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,1,1.8180195929392684,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,2,4.231061122591001,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,3,1.4658791309271058,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,4,2.8860274230964125,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,5,1.2427204165927297,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,6,6.074070710184364,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,7,4.333777618616967,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.3,,8,6.441746930060233,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,0,2.386911497761229,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,1,1.5949364986797379,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,2,4.373043979086407,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,3,1.4366011747768694,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,4,3.0888894820602886,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,5,1.1548735737761653,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,6,6.136497125847438,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,7,4.456191491755786,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.2,,8,6.455977693284889,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,0,2.448603605078209,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,1,1.4267844725831773,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,2,4.418040902686295,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,3,1.330422453093639,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,4,3.2644971454730762,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,5,1.071836806613038,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,6,6.172309320078895,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,7,4.615467171188314,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,-0.1,,8,6.512818881835351,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,0,2.549236488551516,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,1,1.2297876124873746,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,2,4.609022593178826,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,3,1.1566769445421514,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,4,3.9213362208180174,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,5,1.012680602079643,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,6,6.170225458794529,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,7,4.790690080031953,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.1,,8,6.566725202204546,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,0,2.570928602832582,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,1,1.1978207748262641,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,2,4.832884583712889,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,3,1.1354588117017386,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,4,4.502784531981364,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,5,1.0127606329356649,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,6,6.155071925019245,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,7,4.890255205635898,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.2,,8,6.551696704395158,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,0,2.7781361731934573,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,1,1.223004823058832,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,2,4.9524787347804855,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,3,1.1419927633414464,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,4,5.0700133544171875,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,5,1.0127954390596263,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,6,6.123742213636524,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,7,4.9999799602610935,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.3,,8,6.485507672453267,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,0,4.717549038502147,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,1,2.9077044597304957,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,2,5.031043417280529,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,3,2.4158799717874526,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,4,5.672605865447453,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,5,1.9378986921244943,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,6,6.075246211355813,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,7,5.423046499464719,5,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,Using possessive pronouns to emphasize equal respect for all people's individual characteristics,0.5,,8,6.309311941941487,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,0,3.1216413544197525,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,1,2.1823648311065402,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,2,5.381888585856554,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,3,1.0858047176410492,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,4,4.474110368724909,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,5,1.1411141766860022,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,6,5.868049353874911,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,7,4.953252338582483,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.5,,8,6.157244841927072,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,0,2.5865069681416823,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,1,1.8840220643912162,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,2,4.696946024262178,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,3,1.1670376452212037,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,4,3.839554849287706,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,5,1.1576116812893593,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,6,5.875888684759274,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,7,4.898506751181117,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.3,,8,6.156743532023721,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,0,2.536651176561951,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,1,1.6802137996873932,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,2,4.466889382060793,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,3,1.195012335331869,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,4,3.776790868597868,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,5,1.1082629927994656,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,6,5.9316738621983545,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,7,4.850338665129804,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.2,,8,6.2710036593599385,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,0,2.4840420380240604,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,1,1.4873126799106378,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,2,4.436599181829039,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,3,1.2118999681160123,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,4,3.6754334257641013,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,5,1.0531424609332594,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,6,6.023514765305141,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,7,4.7895955481784585,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,-0.1,,8,6.383617363589556,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,0,2.48015330586878,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,1,1.218811972339589,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,2,4.701648968262826,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,3,1.2715353642144263,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,4,3.477873807374859,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,5,1.020979975188595,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,6,6.365117872022171,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,7,4.657835385041261,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.1,,8,6.632227785853571,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,0,2.60277427462239,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,1,1.256538313793399,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,2,5.039513636754323,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,3,1.455180076454864,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,4,3.480069300673335,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,5,1.0273921957210854,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,6,6.592070584085481,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,7,4.684600340454645,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.2,,8,6.716296772540834,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,0,3.0520036092498835,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,1,1.456561562836293,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,2,5.73532502017827,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,3,1.71666258627014,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,4,3.8445491506801472,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,5,1.0383511594776962,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,6,6.838352171931162,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,7,4.868580457323037,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.3,,8,6.826869010910456,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,0,6.798542919518138,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,1,4.3956571782008265,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,2,6.913653221158221,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,3,4.573659358161361,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,4,6.688725711896485,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,5,1.570070418757005,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,6,6.99259405807437,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,7,6.447634354975979,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Everyone deserves to be treated with respect and dignity,0.5,,8,6.992259448230466,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,0,5.051578909920754,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,1,3.273368538193365,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,2,5.945673190766703,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,3,2.6126804610543206,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,4,5.682069556500712,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,5,2.7079824295905666,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,6,6.245542388893788,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,7,5.3450221362067065,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.5,,8,6.7196875778879175,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,0,2.8429382899884486,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,1,1.8755595330345438,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,2,4.70041410884752,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,3,1.5305738000441655,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,4,4.258670844138864,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,5,1.337215969500137,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,6,5.894394372541697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,7,5.002362207047662,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.3,,8,6.551057245402696,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,0,2.6219155146213913,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,1,1.6758725669656498,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,2,4.299861172861205,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,3,1.381049089800161,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,4,3.6129269631030367,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,5,1.1492591746539658,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,6,5.866075147402209,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,7,4.847136222498774,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.2,,8,6.468877287756629,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,0,2.485734186385742,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,1,1.4818195967801089,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,2,4.209022225117211,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,3,1.290021846795041,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,4,3.4423516519829063,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,5,1.0547537969767078,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,6,5.982087932355968,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,7,4.739010664391624,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,-0.1,,8,6.477549931961981,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,0,2.611908044702751,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,1,1.2818034627533597,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,2,5.496637334977702,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,3,1.2225092437403757,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,4,4.121610685130293,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,5,1.0271980737808801,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,6,6.511143088298503,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,7,4.838373390174152,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.1,,8,6.647503758942376,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,0,2.9508277539963563,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,1,1.6211492265542122,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,2,6.766572332839751,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,3,1.3974389266266158,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,4,5.442834344211577,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,5,1.03224665196794,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,6,6.860197455786983,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,7,5.474486307357791,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.2,,8,6.841638876658118,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,0,4.917591462510678,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,1,3.1411631629325973,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,2,6.984164249513756,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,3,1.9851377388377698,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,4,6.743962363494891,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,5,1.105556604154246,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,6,6.978432906718078,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,7,6.41070965881785,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.3,,8,6.960963990866408,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,0,6.981248329723033,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,1,6.805702836725109,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,2,6.996571856306188,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,3,2.6388492676316107,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,4,6.9972333313118185,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,5,5.655150640640461,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,6,6.9934817250367844,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,7,6.971098117978375,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The assistant affirming someone's inherent worth and dignity as a person,0.5,,8,6.99503777645442,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,0,2.2699371120190803,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,1,1.0278412930301546,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,2,4.980780034410931,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,3,1.075319989651106,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,4,6.051670645909058,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,5,1.0070527750932776,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,6,6.185186967644313,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,7,3.995409482079501,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.5,,8,6.600168254373636,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,0,2.278886251456971,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,1,1.067378634821319,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,2,4.677887807145041,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,3,1.0631101700594177,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,4,4.811113132135216,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,5,1.0106946567406945,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,6,6.154342281452088,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,7,4.445245058803222,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.3,,8,6.602316258484903,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,0,2.3774370556255198,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,1,1.1035894618310653,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,2,4.589443672195103,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,3,1.0937359578449262,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,4,4.302056448786634,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,5,1.015454962866068,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,6,6.132524028610891,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,7,4.623479402702361,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.2,,8,6.587278137457151,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,0,2.416901461507599,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,1,1.1761612173960903,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,2,4.53700000217705,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,3,1.1529717515409472,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,4,3.852393735433829,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,5,1.020070696265075,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,6,6.154817182818552,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,7,4.664263188240716,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,-0.1,,8,6.536881780116144,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,0,2.55348200710325,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,1,1.512814816106492,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,2,4.4544956297180605,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,3,1.298381265561307,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,4,3.3093318493948987,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,5,1.0375359765917502,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,6,6.2173609294984225,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,7,4.765314485154361,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.1,,8,6.51823438662935,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,0,2.5849591519518915,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,1,1.6825040835902048,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,2,4.494918090829719,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,3,1.3879635620641861,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,4,3.2009849736827074,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,5,1.0536958989430543,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,6,6.23606257502836,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,7,4.868232720362517,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.2,,8,6.53224506098569,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,0,2.5155664111076894,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,1,1.7796746764075213,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,2,4.412119387518411,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,3,1.4614372571620857,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,4,3.1098257390157618,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,5,1.0791467668649706,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,6,6.250560319611683,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,7,4.946517427446582,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.3,,8,6.601538224747899,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,0,2.796798486165199,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,1,2.292785198420127,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,2,4.167452917215764,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,3,1.9136748572941147,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,4,3.5388776139862133,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,5,1.4763450693833764,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,6,6.208796152883054,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,7,5.085587067941024,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Ethical principles and respect for human dignity,0.5,,8,6.555527930311352,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,0,2.687999680396343,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,1,1.3931774786945883,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,2,5.342388233306216,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,3,1.2358251870574974,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,4,3.845487379424294,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,5,1.2900302765146012,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,6,6.137107149478755,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,7,4.791433583720161,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.5,,8,6.38626262432436,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,0,2.6244328091764375,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,1,1.433844342813271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,2,4.728653033988269,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,3,1.356346678338043,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,4,3.2498662844230446,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,5,1.211713589319954,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,6,6.042792262514608,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,7,4.708391642300347,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.3,,8,6.347651948948909,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,0,2.5462089176860725,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,1,1.4073151364276555,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,2,4.556582299741379,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,3,1.3051954914399353,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,4,3.2791065598654106,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,5,1.1478184017316075,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,6,6.0356350019550975,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,7,4.695061579460393,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.2,,8,6.395163481899207,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,0,2.5383208213596813,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,1,1.3623847851116226,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,2,4.404446442609895,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,3,1.2807005371551106,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,4,3.3225934315003682,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,5,1.0620598005633615,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,6,6.0865580387293985,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,7,4.684464824745449,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,-0.1,,8,6.4496477398730985,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,0,2.497883097468273,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,1,1.3227649842249485,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,2,4.88165779225669,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,3,1.2235948729490589,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,4,3.9866031460208267,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,5,1.0171373809461233,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,6,6.32359259243906,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,7,4.858264798711764,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.1,,8,6.585238078788862,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,0,2.4872006077774103,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,1,1.5969222175944469,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,2,5.6053289362348675,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,3,1.350882916307711,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,4,4.574582126593877,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,5,1.0164145176660002,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,6,6.494532833628305,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,7,5.219272693764715,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.2,,8,6.678856844969347,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,0,2.7051850196854814,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,1,2.464107873976608,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,2,6.300205361744005,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,3,1.8536256917063674,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,4,5.331796288777518,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,5,1.0488048163018941,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,6,6.6471879389054545,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,7,5.803959014840964,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.3,,8,6.764633021456329,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,0,5.014992093306343,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,1,6.000419059136107,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,2,6.875749902518909,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,3,4.282475843445029,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,4,6.649811035307249,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,5,5.249882298178071,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,6,6.897022821715299,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,7,6.7503036181608405,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Individual uniqueness and inherent human dignity,0.5,,8,6.911654408512932,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,0,3.824492661196613,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,1,1.3308360606143004,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,2,3.932803518985503,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,3,1.141694851168723,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,4,6.442528250932364,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,5,1.082996605711728,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,6,6.66734014032777,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,7,6.252300472733051,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.5,,8,6.958082609939123,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,0,2.9531660755997517,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,1,1.1932775767632107,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,2,3.459931966294336,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,3,1.109369642513146,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,4,5.318514807661619,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,5,1.040975701235706,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,6,6.383716475811225,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,7,4.835959766492415,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.3,,8,6.836497679339622,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,0,2.742347236279626,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,1,1.1835817616957307,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,2,3.6917966647136016,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,3,1.1209215233346665,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,4,4.700004266590269,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,5,1.0319971190696051,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,6,6.310438062872448,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,7,4.711216933714227,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.2,,8,6.73473680687474,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,0,2.64102214791989,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,1,1.2085278052755488,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,2,4.025065539789767,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,3,1.1528830511547437,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,4,3.9619493626565374,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,5,1.0284316697024731,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,6,6.197305579944521,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,7,4.659215767202683,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",-0.1,,8,6.59445645372165,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,0,2.399982953408223,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,1,1.5328879645999687,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,2,5.123289946953889,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,3,1.3732498170161065,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,4,3.5132553744527213,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,5,1.0432191960738322,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,6,6.200515855878467,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,7,4.764733980216961,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.1,,8,6.4546794630278495,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,0,2.3975671021123537,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,1,2.0633732321722524,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,2,5.821570681272069,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,3,1.859034900542877,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,4,3.938396799317175,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,5,1.1165494282998472,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,6,6.218689255294917,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,7,4.912011404476165,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.2,,8,6.396405857850108,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,0,2.3686381854096146,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,1,2.6516742783901517,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,2,6.347590805738605,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,3,2.382249149646906,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,4,4.701072538698349,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,5,1.5918507070164605,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,6,6.317467239387653,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,7,5.016639904378392,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.3,,8,6.414818466439342,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,0,2.5170061699666686,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,1,3.1338962892148925,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,2,6.669014935935511,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,3,2.9457998144623962,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,4,6.75400139801101,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,5,3.640051488405887,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,6,6.5446128302684095,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,7,5.077148792639384,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Universal human equality and dignity, especially in ethical contexts",0.5,,8,6.736309306893075,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,0,4.670826761623556,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,1,5.03981309566165,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,2,6.30218408574567,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,3,5.187342589345771,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,4,4.924755675565075,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,5,5.27879615939982,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,6,6.229951730268065,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,7,6.329805093776111,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.5,,8,6.734051707369156,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,0,2.898650433447314,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,1,4.509501252863127,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,2,5.734594839889799,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,3,2.44890113553808,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,4,3.6476842519281525,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,5,3.3457557884859925,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,6,6.0463460436978345,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,7,5.67818123496115,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.3,,8,6.424759367855098,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,0,2.7287598347752002,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,1,3.969062094707992,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,2,5.329423631168836,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,3,1.8481947900675473,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,4,3.483463935506423,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,5,2.5771659968128406,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,6,6.022732505735968,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,7,5.499888714988274,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.2,,8,6.479654959901883,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,0,2.5342657592165643,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,1,2.5909206253212074,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,2,4.824186815334959,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,3,1.4386619920613282,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,4,3.485136724325499,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,5,1.4008814641031972,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,6,6.074463987584689,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,7,5.121240454839575,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,-0.1,,8,6.473538217384556,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,0,2.4755386832108726,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,1,1.0182256446529034,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,2,4.370968294660966,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,3,1.0920187179982312,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,4,3.9629119587935264,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,5,1.0032795734898587,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,6,6.35972286799129,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,7,4.404751186960595,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.1,,8,6.568307859282598,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,0,2.3742933914041244,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,1,1.0017812551106062,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,2,4.718338803031463,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,3,1.022736503294706,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,4,5.129959647550191,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,5,1.0007066883977394,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,6,6.65863768228176,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,7,3.6590645476126364,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.2,,8,6.701750501426202,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,0,1.8075863287026441,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,1,1.0006634997899233,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,2,5.63365159805082,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,3,1.0058622596597289,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,4,6.779986356522409,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,5,1.0004494300760984,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,6,6.93925967700484,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,7,1.372308247250173,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.3,,8,6.914955317144877,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,0,3.0516440514935645,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,1,1.0374928169540687,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,2,6.35231709629702,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,3,1.204010328724726,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,4,6.986704258350128,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,5,1.0927807160068428,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,6,6.976473323811322,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,7,1.2055098967558673,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,The fundamental dignity and right to life of all human beings,0.5,,8,6.974995260832177,7,7
