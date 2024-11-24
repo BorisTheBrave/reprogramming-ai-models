@@ -1,0 +1,811 @@
+base,feature,steerage,persona,question,mean_score,score,text
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,0,2.3324084828183946,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,1,1.0692747725876475,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,2,5.146900341267192,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,3,1.2611430896703222,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,4,2.9614860074154716,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,5,1.0172123867276273,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,6,5.902015652218951,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,7,4.592784852190901,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.5,,8,6.497854777294206,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,0,2.3932385137417382,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,1,1.1496938768898664,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,2,4.801148406194239,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,3,1.2894491103217434,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,4,3.184460638940077,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,5,1.0237510842036561,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,6,6.054732396990483,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,7,4.666132417479489,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.3,,8,6.562178043445205,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,0,2.4694550396232287,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,1,1.204364906566295,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,2,4.624526773560822,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,3,1.2926766784015802,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,4,3.312837653686063,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,5,1.0237955711387785,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,6,6.119996243240291,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,7,4.660832647310806,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.2,,8,6.541847398694354,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,0,2.481777825337535,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,1,1.257772057807598,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,2,4.544992693622951,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,3,1.2572460449746383,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,4,3.4955997734477564,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,5,1.0275985560774465,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,6,6.173842056871517,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,7,4.684638464158295,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,-0.1,,8,6.542803251471267,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,0,2.4817392002169805,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,1,1.3371838553861224,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,2,4.3764951126823295,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,3,1.208067900795933,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,4,3.6193820595482777,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,5,1.031542467401154,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,6,6.207296934237667,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,7,4.820486546847166,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.1,,8,6.477549931961981,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,0,2.4918286947397514,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,1,1.3312171383787483,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,2,4.406143812605155,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,3,1.2047733285050406,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,4,3.7986844624424876,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,5,1.0459112064494573,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,6,6.241348835549738,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,7,4.878037172833062,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.2,,8,6.484615159415442,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,0,2.5472214752613955,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,1,1.3715331303012865,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,2,4.439159187514895,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,3,1.252132247247948,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,4,4.0629610317305,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,5,1.0640413551390893,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,6,6.240966182680489,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,7,4.956877691927494,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.3,,8,6.407542891231766,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,0,3.048545102558217,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,1,1.5510674361746475,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,2,4.646447795329052,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,3,1.5370326535264698,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,4,4.879042527102078,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,5,1.1558645686149822,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,6,6.34015584081404,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,7,5.277449239678045,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or requirement in instructions,0.5,,8,6.40454530217795,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,0,5.235687401928802,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,1,1.059121424479789,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,2,6.219781183052989,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,3,1.0382714077925892,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,4,5.9509311045473785,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,5,1.0103350817715353,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,6,6.251047012113975,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,7,4.96672693480933,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.5,,8,6.5261392561248766,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,0,3.268283556801129,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,1,1.123436880965359,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,2,5.941290857768944,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,3,1.0518697886345996,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,4,4.322236939800331,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,5,1.0074763228231491,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,6,6.20009095280002,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,7,4.474125090204277,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.3,,8,6.578343509341068,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,0,2.99181513003929,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,1,1.182058100616868,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,2,5.577966696644994,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,3,1.0903644167227071,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,4,4.011022461329262,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,5,1.0123424555247096,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,6,6.21855217010618,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,7,4.594721103902451,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.2,,8,6.594657584196069,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,0,2.732026168107559,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,1,1.2466866450177367,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,2,5.094484057552288,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,3,1.1655810750339672,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,4,3.781597287634059,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,5,1.0199525125495963,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,6,6.224840111593512,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,7,4.63220621931646,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,-0.1,,8,6.576326305868938,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,0,2.2996270499587355,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,1,1.338473303033383,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,2,3.815274645175397,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,3,1.2206059744472744,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,4,3.43419231372089,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,5,1.0468360330569793,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,6,6.118161779735568,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,7,4.794882298808484,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.1,,8,6.417540035473064,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,0,2.1483409742218154,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,1,1.2866206606869481,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,2,3.1127665920067438,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,3,1.2113245229977365,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,4,3.3096445508372923,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,5,1.0545711379184397,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,6,6.066535599120728,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,7,4.850230856843334,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.2,,8,6.395859959195175,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,0,2.101209483046295,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,1,1.205850643721173,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,2,2.807134904604751,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,3,1.1801941586049236,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,4,3.5435439977049454,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,5,1.0646325294619368,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,6,5.990722785622493,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,7,5.049320546459412,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.3,,8,6.305173389454847,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,0,3.6459416034953525,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,1,2.9582769930457022,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,2,3.6472353462370997,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,3,2.580956244588854,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,4,5.077006966970786,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,5,2.0742746986392917,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,6,6.072628442584613,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,7,5.274622624196544,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Mandatory requirements or obligations,0.5,,8,6.186623693182784,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,0,3.2926432204544245,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,1,1.2018534993160686,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,2,4.320954840371769,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,3,1.1087958847382446,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,4,5.005713895586696,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,5,1.0120071949182776,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,6,6.174869266929608,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,7,4.445577112158569,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.5,,8,6.237785502028114,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,0,2.7668488379114566,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,1,1.2255221605466096,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,2,4.201978620141201,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,3,1.1740243124536591,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,4,4.110348511739096,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,5,1.013292005884943,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,6,6.175176460033427,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,7,4.712602477633908,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.3,,8,6.353877398651706,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,0,2.6330146293160586,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,1,1.2416025118849725,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,2,4.247464147556406,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,3,1.1694426337012127,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,4,3.9654533194662522,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,5,1.0143067609906213,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,6,6.171549367653616,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,7,4.745582637903611,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.2,,8,6.426796625202312,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,0,2.526418236748637,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,1,1.2673624982350085,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,2,4.339187934446159,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,3,1.1827486851134255,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,4,3.6821828343564973,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,5,1.0187944635335224,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,6,6.185802617939701,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,7,4.757875920693087,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,-0.1,,8,6.497570211582866,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,0,2.507649333644555,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,1,1.349702438798121,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,2,4.676507983845147,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,3,1.2739326102769073,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,4,3.5006583724036653,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,5,1.0499342276286698,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,6,6.186152774331161,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,7,4.609754632843679,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.1,,8,6.529855057646008,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,0,2.543670486904878,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,1,1.3652633340763372,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,2,4.797426850447712,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,3,1.3506896691653123,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,4,3.416610671330073,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,5,1.080416552038556,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,6,6.137043803630491,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,7,4.530415940495144,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.2,,8,6.482188901739601,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,0,2.5504344660927636,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,1,1.4476834862577386,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,2,4.933329536984473,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,3,1.4401928437802336,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,4,3.428370661077126,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,5,1.1605404996296225,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,6,6.0857716417401475,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,7,4.5072016622305044,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.3,,8,6.426995436192408,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,0,2.941884416053948,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,1,1.610273929972895,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,2,5.394923269116144,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,3,1.7295924928542312,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,4,3.6347949974423037,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,5,1.5025298916233178,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,6,6.1344508588907845,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,7,4.581652630825436,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Personal obligation or necessity being expressed,0.5,,8,6.3134569463005645,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,0,3.3890561676117597,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,1,2.0390308065391434,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,2,4.7408908127555485,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,3,1.101654811216179,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,4,4.813850601386671,5,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,5,1.0139444362286167,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,6,6.120291945401549,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,7,5.141531483716123,5,5
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.5,,8,6.400662930455787,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,0,2.7152564777710984,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,1,1.5673169318628886,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,2,4.373175291420692,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,3,1.161742047613398,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,4,4.186793931054874,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,5,1.0221662238630282,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,6,6.253017884145584,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,7,4.984851183632771,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.3,,8,6.542700665688236,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,0,2.703745566367855,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,1,1.4469184213503177,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,2,4.32314715241025,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,3,1.2067669618479482,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,4,4.025055965944098,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,5,1.0238783662760875,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,6,6.276769008887756,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,7,4.919259826364442,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.2,,8,6.58857531506444,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,0,2.6310193570941482,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,1,1.3774246751463575,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,2,4.373437786554381,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,3,1.210366629250561,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,4,3.782979073680407,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,5,1.0266346750583246,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,6,6.256845172026588,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,7,4.827718827034537,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",-0.1,,8,6.556824828645109,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,0,2.4102376589860524,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,1,1.2571942969867378,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,2,4.699730726702521,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,3,1.2120025931197635,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,4,3.318465850628515,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,5,1.0317398910168118,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,6,6.109851254688744,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,7,4.605290129789735,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.1,,8,6.463684060217507,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,0,2.3249898843057872,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,1,1.194401736222318,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,2,4.943196984404801,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,3,1.2406847847675386,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,4,3.2054474501843844,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,5,1.042637268171843,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,6,6.026354863978788,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,7,4.582219141937604,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.2,,8,6.43895667036342,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,0,2.3033330120522684,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,1,1.178268990822759,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,2,5.209218494408038,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,3,1.2522273675939317,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,4,3.000154734344828,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,5,1.053653435262619,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,6,5.955188979981356,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,7,4.442846136602845,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.3,,8,6.40608178068065,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,0,2.6043732492997,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,1,1.1663266614501742,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,2,5.771137132780096,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,3,1.4642730072049674,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,4,3.1487937303478164,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,5,1.230704058469364,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,6,5.928345846361623,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,7,4.267184788722124,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation, intention, or social pressure to take action",0.5,,8,6.341228971810029,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,0,3.820026499146895,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,1,1.0164350646011127,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,2,5.614361976385063,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,3,1.0089922503543765,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,4,5.178343521753403,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,5,1.0031348974221885,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,6,5.872556871703164,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,7,4.856746376689298,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.5,,8,6.875929940273131,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,0,2.6714699543128786,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,1,1.0295324323823918,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,2,5.628670565794061,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,3,1.0217079231338115,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,4,4.738512215727342,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,5,1.0040907462902309,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,6,6.212280048139865,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,7,4.6846652556659,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.3,,8,6.7716440287661435,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,0,2.6177176232261776,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,1,1.0659357293183755,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,2,5.264660542050497,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,3,1.0552664609992501,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,4,4.348295576011489,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,5,1.0071993480183923,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,6,6.216936910482542,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,7,4.649483091746642,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.2,,8,6.693330002021776,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,0,2.5719875510547916,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,1,1.1524182962345346,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,2,4.886692592534913,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,3,1.1181210180249028,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,4,3.9866031460208267,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,5,1.013337165134634,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,6,6.192495553648463,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,7,4.711459749398186,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",-0.1,,8,6.623896255391691,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,0,2.386732408367558,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,1,1.4299916264189176,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,2,3.9854217056370245,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,3,1.3405218955148699,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,4,3.3024668735942435,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,5,1.0540852929468965,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,6,6.166167753903829,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,7,4.768228767592486,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.1,,8,6.428215809844357,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,0,2.156252999648008,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,1,1.5263538777056216,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,2,3.4116469778741787,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,3,1.4048725057345315,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,4,3.178840468046354,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,5,1.075916895771492,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,6,6.1439087689946446,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,7,4.9498139830063925,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.2,,8,6.360586413807707,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,0,2.081666733517014,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,1,1.625892494740525,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,2,2.8248313379388,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,3,1.6189713035805902,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,4,3.208539628835027,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,5,1.095616253046811,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,6,6.073503867885754,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,7,5.1558480489219,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.3,,8,6.266045195079191,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,0,2.7234378021294847,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,1,2.6403135488469465,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,2,2.7554824274757888,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,3,3.274208951844874,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,4,4.107497359153407,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,5,1.8951014323120023,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,6,6.0251596483495,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,7,5.619212632546892,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation or requirement",0.5,,8,6.054323890806874,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,0,2.7205865047465947,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,1,1.8912998335804951,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,2,5.765975782828946,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,3,1.829057658511338,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,4,4.0294549602612975,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,5,1.1235250015509939,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,6,5.977026324426957,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,7,4.659016506868349,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.5,,8,6.265243993666912,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,0,2.5833344014148727,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,1,1.4290141758954196,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,2,5.4419145090297905,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,3,1.3385589856187798,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,4,3.995958966836887,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,5,1.0534732939191107,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,6,6.040795122856252,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,7,4.566403895596482,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.3,,8,6.435660103801956,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,0,2.510709982992475,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,1,1.3466027858740153,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,2,5.146666245790411,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,3,1.2334023325275776,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,4,3.8329077617395924,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,5,1.0296941524115872,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,6,6.055528601912798,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,7,4.600161983056879,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.2,,8,6.48464948525266,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,0,2.4945343087338525,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,1,1.3362889721000453,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,2,4.796713716026131,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,3,1.2145164932047225,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,4,3.6811982050946077,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,5,1.0241658417154536,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,6,6.112977445720344,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,7,4.663165452758368,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",-0.1,,8,6.509246907581829,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,0,2.515549977759822,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,1,1.2672044693416802,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,2,4.325066574893817,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,3,1.2495899295574988,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,4,3.5677006831062075,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,5,1.0372136463110984,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,6,6.295379150741093,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,7,4.8457121507723055,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.1,,8,6.600559905556927,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,0,2.554309143260829,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,1,1.2346688267317738,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,2,4.309744439453749,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,3,1.2876765478970207,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,4,3.6424297342229384,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,5,1.0582398362821308,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,6,6.3827243835534055,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,7,5.028755397731312,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.2,,8,6.604070436217876,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,0,2.615633413354348,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,1,1.2080973806866087,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,2,4.318535626904799,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,3,1.2180378881295284,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,4,3.7711593170156106,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,5,1.061570706639126,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,6,6.53686949916151,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,7,5.242252176117601,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.3,,8,6.668285504637221,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,0,4.452188099886157,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,1,1.5069785860551648,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,2,5.2804180500190165,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,3,1.386368167424346,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,4,4.83420660474976,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,5,1.259664247832294,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,6,6.851668413311627,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,7,5.836047870040805,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of necessity, obligation, or required action",0.5,,8,6.894052215480997,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,0,6.083237718834307,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,1,3.646744169921749,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,2,6.888329625447339,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,3,1.6865494351974903,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,4,6.363101545448822,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,5,3.704194774191751,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,6,6.745445205038727,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,7,6.331737154388509,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.5,,8,6.945582401561567,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,0,4.333203828527104,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,1,2.1845719977587876,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,2,6.454641659699306,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,3,1.3335968217345247,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,4,4.724227320316619,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,5,1.4223479187327768,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,6,6.440269570798132,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,7,5.508736021473405,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.3,,8,6.8312420331199615,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,0,3.4147295632797197,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,1,1.7396989148433497,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,2,6.012678088805956,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,3,1.2492172556508703,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,4,4.195255839550938,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,5,1.1417182953320093,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,6,6.3815659572361385,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,7,5.22420135845549,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.2,,8,6.717639648352515,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,0,2.7793697701554967,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,1,1.4304769571373186,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,2,5.359548841580306,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,3,1.234089078840126,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,4,3.8351372346117607,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,5,1.0528530872177937,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,6,6.280904607301286,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,7,4.978049123101864,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",-0.1,,8,6.6453356023687284,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,0,2.3018236453994767,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,1,1.2512271513268043,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,2,3.6198409599735033,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,3,1.2244136768854323,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,4,3.3727998495627194,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,5,1.0313338311913993,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,6,6.023419425799546,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,7,4.583935449188449,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.1,,8,6.395495088795403,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,0,2.1284233985693364,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,1,1.2707332924740802,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,2,2.868760423764918,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,3,1.2728335192029347,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,4,3.2085702567205643,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,5,1.0350572643761011,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,6,5.7527783707872455,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,7,4.499399479191684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.2,,8,6.223354674453813,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,0,2.157253603860407,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,1,1.6296425263053993,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,2,2.465498211807393,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,3,1.509449345380454,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,4,3.076992256304055,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,5,1.0577655557148828,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,6,5.447621304538889,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,7,4.527725120236508,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.3,,8,5.974219197947716,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,0,3.5165994279890604,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,1,5.318203702056289,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,2,3.302370814158263,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,3,5.527107483897772,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,4,4.2666027715292385,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,5,4.44980151552218,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,6,5.508694970845308,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,7,5.02928663210682,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,"Expressions of obligation or requirement (must, need to, have to)",0.5,,8,6.098090183583869,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,0,6.26828625253583,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,1,5.314432229525847,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,2,6.307571522282682,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,3,5.076612935155337,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,4,6.353978510666786,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,5,4.80042989279763,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,6,6.1767686841638065,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,7,5.586987536536926,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.5,,8,6.520585673972008,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,0,4.787995751341257,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,1,4.068004495633526,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,2,6.371269231696482,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,3,2.6193227030436472,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,4,5.751840640935256,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,5,2.5730380254626684,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,6,6.298134922450491,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,7,5.5560200655463365,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.3,,8,6.744065086483309,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,0,3.474526602569661,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,1,2.2965250862153543,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,2,5.982794445304189,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,3,1.7691189238835283,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,4,5.032712522765916,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,5,1.2941944055301318,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,6,6.290707122830799,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,7,5.232250471053717,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.2,,8,6.739931132280273,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,0,2.7562338966733413,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,1,1.6435448397521484,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,2,5.241853677887411,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,3,1.3594590489901237,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,4,4.1529123977415034,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,5,1.053681007654212,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,6,6.2691795787563604,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,7,4.9450582523339275,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,-0.1,,8,6.668020128384699,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,0,2.3831201201976557,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,1,1.2881810663357243,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,2,4.056584058921836,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,3,1.2787505754930382,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,4,3.2941985852556273,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,5,1.046015576332247,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,6,6.075581383276509,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,7,4.624300548447661,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.1,,8,6.293029184759912,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,0,2.474260558550304,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,1,1.4773615703117193,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,2,3.9851634452517124,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,3,1.556385114314444,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,4,3.3876570237949224,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,5,1.1720486866639759,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,6,5.953682724657197,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,7,4.650354320988745,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.2,,8,6.042396167001385,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,0,2.850134450057769,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,1,1.7750609038478056,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,2,4.346940666068781,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,3,1.8383132808527436,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,4,3.5236535543285523,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,5,1.3711707884958244,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,6,5.798910503135645,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,7,4.644156177046252,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.3,,8,5.905035471509178,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,0,4.0192456988010035,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,1,3.583595610751203,3,3
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,2,5.063019492531071,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,3,3.230225279308806,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,4,4.79094148037562,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,5,2.8791483238176308,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,6,5.56566231217229,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,7,4.6272225381568735,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expression of compulsion or obligation despite reservations,0.5,,8,6.01919402081447,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,0,2.852508476306768,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,1,2.126461018626031,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,2,4.910904869175114,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,3,1.8820785624950351,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,4,4.837876038495656,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,5,1.0697732751591458,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,6,6.06336838522702,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,7,4.809476256947704,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.5,,8,6.2560467085976255,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,0,2.517958448917554,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,1,1.8117320217855684,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,2,4.585931552851674,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,3,1.520891512014626,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,4,3.9616283182243293,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,5,1.050545668971608,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,6,6.167962599875995,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,7,4.962489737042472,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.3,,8,6.436971381086434,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,0,2.5339174298718534,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,1,1.6893427478659382,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,2,4.483782663263543,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,3,1.430575431604317,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,4,3.686099521230651,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,5,1.0423028364916973,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,6,6.17928307054984,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,7,4.952645152148219,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.2,,8,6.492833265106484,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,0,2.5343546898027047,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,1,1.4440837133649402,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,2,4.429302164756492,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,3,1.321513026969658,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,4,3.6096027634262047,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,5,1.0373252422266104,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,6,6.195193033571381,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,7,4.844311101144624,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,-0.1,,8,6.513089386844175,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,0,2.4828616212435777,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,1,1.2078107022249227,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,2,4.578635626900043,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,3,1.1517174208865242,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,4,3.544663141241359,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,5,1.023837593409211,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,6,6.196427268204418,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,7,4.5356030189410745,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.1,,8,6.540129583852901,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,0,2.4713137194499017,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,1,1.1944470037797879,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,2,4.777022054625586,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,3,1.1509865162970176,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,4,3.6345669533354017,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,5,1.0301816118504876,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,6,6.200885199209136,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,7,4.380804179476123,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.2,,8,6.5010649097622775,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,0,2.414552864990637,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,1,1.2067209331594857,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,2,4.997261084916009,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,3,1.1626763917032232,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,4,3.6799028479406437,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,5,1.0387864910389648,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,6,6.226091766722237,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,7,4.297524978826902,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.3,,8,6.543059185945606,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,0,2.301738693333469,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,1,1.5943651807622319,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,2,5.652686691252041,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,3,1.1944881862625858,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,4,4.121306778245366,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,5,1.106826840140081,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,6,6.355218443128137,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,7,4.3991118448663284,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Obligation or duty to respond to challenging situations,0.5,,8,6.726464506333993,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,0,4.890321301680111,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,1,1.89063732452806,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,2,6.389376527765281,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,3,2.1758436787926922,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,4,6.4585606338506345,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,5,1.1868726904054814,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,6,6.765761879609189,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,7,4.96684417450722,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.5,,8,6.885249942286265,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,0,3.6170616108370304,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,1,1.5719752455715428,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,2,5.885601856269904,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,3,1.8474993930662869,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,4,5.412320039032048,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,5,1.0675269774869698,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,6,6.4345949939794025,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,7,4.714255002237993,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.3,,8,6.733695498360743,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,0,3.1474199172474435,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,1,1.4538749822585837,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,2,5.574232553778907,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,3,1.6378379832972252,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,4,4.945341890179075,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,5,1.0531357964634254,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,6,6.3670304155701904,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,7,4.747586838760515,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.2,,8,6.69458067778537,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,0,2.8537215451554196,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,1,1.3386831204860723,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,2,5.134581081077577,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,3,1.3568947293459586,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,4,4.387806491227061,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,5,1.042229480621511,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,6,6.297412477245668,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,7,4.735895401979114,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,-0.1,,8,6.6479521532197,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,0,2.4893327609375597,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,1,1.2896268654824001,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,2,4.455773655925545,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,3,1.215269238380271,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,4,3.596951467266684,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,5,1.0296054437163156,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,6,6.184293286239697,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,7,4.682197639971171,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.0,,8,6.51859562000638,7,7
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,0,2.2934006097804107,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,1,1.2841552989136231,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,2,3.7089324506585846,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,3,1.1739257494839745,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,4,2.855288291018616,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,5,1.0215865066191094,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,6,6.050171035527662,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,7,4.5311348813332915,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.1,,8,6.330290117083513,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,0,2.091753387001799,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,1,1.3645530498133187,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,2,3.05847029995046,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,3,1.1994755094692815,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,4,2.599062207670021,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,5,1.0211106605524656,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,6,5.922875204773833,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,7,4.292239358779659,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.2,,8,6.124177306878283,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,0,2.0127157796407538,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,1,1.6136250500384386,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,2,2.7090573190807627,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,3,1.2395272713137089,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,4,2.573825979344396,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,5,1.0408793521667337,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,6,5.818089470670151,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,7,4.130095670800312,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.3,,8,5.9164437857586725,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,0,2.707922492490278,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,1,2.1276325018309663,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,2,3.2615750255472795,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,3,1.689264875383682,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,4,3.097334426207832,2,2
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,5,1.3273340902775528,1,1
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,6,5.58982115328541,6,6
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,7,3.918589337994994,4,4
+meta-llama/Meta-Llama-3.1-70B-Instruct,Expressions of obligation or normative requirements,0.5,,8,5.758502259809446,6,6
