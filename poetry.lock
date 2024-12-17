@@ -434,13 +434,13 @@ woff = ["brotli (>=1.0.1)", "brotlicffi (>=0.8.0)", "zopfli (>=0.1.4)"]
 
 [[package]]
 name = "goodfire"
-version = "0.2.38"
+version = "0.2.40"
 description = "Understand and steer your AI models"
 optional = false
 python-versions = "<4.0,>=3.9"
 files = [
-    {file = "goodfire-0.2.38-py3-none-any.whl", hash = "sha256:0ff390d5480a9ec02b294be1450ad6ab4949fc20a46a356efc6ad50584cec19e"},
-    {file = "goodfire-0.2.38.tar.gz", hash = "sha256:8e9f86c9e3458b262d0018d40fb3cd4f7ec20b5717642fa32bbc9ab4ed5e6f0a"},
+    {file = "goodfire-0.2.40-py3-none-any.whl", hash = "sha256:e2ecb9434b18d2a888f3ae7c018824aa1063f7dd80c6d4ca27be130aab456966"},
+    {file = "goodfire-0.2.40.tar.gz", hash = "sha256:b715b691373bd7a99834325673bd28f6d71bcde09d2b7269dccba8db6ecd6be5"},
 ]
 
 [package.dependencies]
