@@ -45,3 +45,13 @@ nationality_to_continent = {
     'Swiss': 'Europe',
     'Singaporean': 'Asia'
 }
+
+_question_filenames = {
+    "OUS": "questions/OUS.json",
+    "GGB": "questions/GreatestGoodBenchmark.json",
+}
+
+def get_questions(source):
+    filename = _question_filenames[source]
+    import json
+    return json.load(open(filename, "r"))
