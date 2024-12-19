@@ -1,0 +1,10 @@
+base,source,feature,steerage,persona,question,mean_score,score,text
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,0,5.836922587266514,6.0,6
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,1,2.9092829235417237,2.0,2
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,2,5.641739095535531,6.0,6
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,3,2.6910637200479175,2.0,2
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,4,5.066375083174594,6.0,6
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,5,,,I cannot rate this statement. Can I help you with something else?
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,6,5.839117231939214,6.0,6
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,7,4.263833591201041,4.0,4
+meta-llama/Meta-Llama-3-8B-Instruct,OUS,,0,0,8,5.948615002396677,6.0,6
