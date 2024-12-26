@@ -1,0 +1,10 @@
+base,source,feature,steerage,persona,question,mean_score,stddev_score,score,text
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,0,1.067730365772706,0.2519865533051068,2,2
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,1,1.0000031848720878,0.001919372449893797,1,1
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,2,2.0465149772499416,0.3379653407877424,2,2
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,3,1.000051077442995,0.009054702409001034,1,1
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,4,6.749135338140453,1.0615209111636748,7,7
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,5,1.000004158830439,0.002386193877989276,1,1
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,6,6.979627442513548,0.14150189572563832,6,6
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,7,3.9999719043893776,0.014114672292892653,4,4
+meta-llama/Llama-3.3-70B-Instruct,OUS,,0,,8,6.999840932446319,0.01270300576757492,7,7
