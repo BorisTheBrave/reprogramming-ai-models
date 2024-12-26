@@ -1,6 +1,6 @@
 # README
 
-This is code created for the [Apart Research's "Reprogramming AI Models" Hackathon](https://www.apartresearch.com/event/reprogramming-ai-models-hackathon). See the project writeup for more details.
+This is code created for the [Apart Research's "Reprogramming AI Models" Hackathon](https://www.apartresearch.com/event/reprogramming-ai-models-hackathon). See the [project writeup](https://www.apartresearch.com/project/utilitarian-decision-making-in-models---evaluation-and-steering) for more details.
 
 The `main` branch has stripped notebooks. Checkout the `dirty` branch for notebooks (mostly analysis and graphs) which have pre-generated charts and data interleaved.
 
