@@ -49,6 +49,7 @@ nationality_to_continent = {
 _question_filenames = {
     "OUS": "questions/OUS.json",
     "GGB": "questions/GreatestGoodBenchmark.json",
+    "GGB_inverted": "questions/GGB_invertedIH.json",
 }
 
 def get_questions(source):
