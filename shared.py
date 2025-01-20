@@ -50,6 +50,7 @@ _question_filenames = {
     "OUS": "questions/OUS.json",
     "GGB": "questions/GreatestGoodBenchmark.json",
     "GGB_inverted": "questions/GGB_invertedIH.json",
+    "GGB_IHonly": "questions/GGB_IHonly.json",
 }
 
 def get_questions(source):
