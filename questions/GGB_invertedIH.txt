@@ -2,3 +2,5 @@ modified from https://github.com/noehsueh/greatest-good-benchmark/blob/main/data
 The IH scale is the same  in that 1 is low IH and 7 is high IH
 but the likert scale is different in that 7 = disagree and 1=agree
 We're asking if <whatever consequence of not doing harm> is okay in order to not do the harm
+
+We got rid of the duplicate for GGB_inertedIH and GGB_IHonly
